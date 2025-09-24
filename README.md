@@ -24,6 +24,9 @@ This repository contains the most recent resume work tailored for Deloitte Techn
   - `drew-williams-resume-brookfield-client-group.html` — Brookfield Global Client Group (Toronto)
   - `drew-williams-resume-palantir-deployment.html` — Palantir Deployment Strategist (Ottawa)
   - `drew-williams-resume-deloitte-ts-t.html` — Deloitte Technology Strategy & Transformation (Toronto)
+- **`resume/` — Cover letters & fit memos (HTML)**
+  - `drew-williams-cover-letter-<role>.html` — Tailored cover letters for each posting (WestJet, TransAlta, CNRL, Cenovus, AIMCo, PSP x2, Brookfield, Palantir, Deloitte)
+  - `drew-williams-fit-memo-<role>.html` — One-page fit memos mirroring the same roles
 - **`prompts/`**
   - `resume-tailoring-codex-cloud-prompt.md` (Codex Cloud runbook)
 - **`job-descriptions/`**
@@ -31,7 +34,7 @@ This repository contains the most recent resume work tailored for Deloitte Techn
 - **`notes/`**
   - `tailoring-notes-2025-09-24.md` — competency highlights for the 10 Canadian roles
 - **`pdf/`**
-  - All exported PDFs (baseline variants, ASCII-safe, 10 tailored resumes, cover letter, fit memo)
+  - All exported PDFs (baseline variants, ASCII-safe, 10 tailored resumes, cover letters, fit memos)
 
 ## How to Export to PDF
 
