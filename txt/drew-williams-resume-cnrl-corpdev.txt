@@ -1,0 +1,31 @@
+Drew Williams - Resume (CNRL Corporate Development Analyst)
+Drew Williams
+Calgary, AB (Hybrid; travel-ready) | 403-618-6113 | bdrewwilliams@gmail.com | LinkedIn: https://www.linkedin.com/in/drew-williams-ai-strategy | Portfolio: https://www.itfrombit.ca
+Professional Summary
+Corporate development analyst specializing in upstream acquisitions/divestitures, asset screening, and portfolio optimization. Build decline-curve and cash-flow models, evaluate reserve reports, and synthesize competitive intelligence into investment committee briefs. Experienced coordinating engineering, operations, and finance stakeholders and codifying diligence workflows that accelerate decision timelines.
+Core Competencies
+A&D Screening; Economic Modeling (NPV, IRR, decline curves); Scenario & Sensitivity Analysis; Reserves & Production Analytics; Portfolio Optimization; Competitive Intelligence; Due Diligence Coordination; Investment Committee Materials; Stakeholder Alignment (Engineering, Ops, Finance); Excel (advanced); Python/SQL; AI-Accelerated Research.
+Experience
+Independent Builder — AI & Financial Analytics
+·
+Calgary, AB | 2023–Present
+Developed asset-screening engine ingesting production, cost, and commodity data; delivered short-form A&D heat maps and value-driver dashboards.
+Constructed decline-curve, type-curve, and sensitivity models (Python/Excel) to evaluate acquisition scenarios, strip pricing, and operating synergies.
+Produced board-style memoranda aligning valuation outcomes with strategic fit, risk, and integration plans.
+Rosen Capital Advisors — Financial Analyst
+·
+Los Angeles, CA | 2016–2020
+Managed diligence workstreams for energy and infrastructure transactions; synthesized technical and financial findings into IC-ready decks.
+Built cash-flow and scenario models evaluating production profiles, capex, and regulatory sensitivities; supported negotiation positions.
+Implemented compliance/ops integration program, delivering $120K annual savings and tighter reporting cadence to deal teams.
+Private Equity (Summer Analyst) — Olson Cross & Alamo
+·
+New York, NY | 2015
+Analyzed $350M–$3.5B energy and infrastructure deals; built IRR/NPV models and diligence summaries detailing valuation and risk factors.
+Education
+Haskayne School of Business, University of Calgary
+·
+B.Comm, Finance (Distinction) | Graduated 2025
+GPA: 3.9/4.0 (last 90 units) · Haskayne Resilience Scholarship
+Skills & Keywords (ATS — CNRL Corp Dev)
+Corporate Development; A&D Portfolio Optimization; Decline Curve Analysis; Type Curve; Economic Modeling; NPV; IRR; Sensitivity Analysis; Reserves; Upstream Operations; Competitive Intelligence; Due Diligence; Investment Committee; Excel; Python; SQL; Calgary.

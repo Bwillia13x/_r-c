@@ -1,0 +1,24 @@
+Fit Memo - Deloitte TS&T - Drew Williams
+One-Page Fit Memo — Deloitte Technology, Strategy & Transformation
+Candidate: Drew Williams · Calgary, AB · 403-618-6113 · bdrewwilliams@gmail.com
+Why Deloitte TS&T
+Client-facing technology strategy with measurable business outcomes aligns with my experience translating ambiguity into roadmaps.
+Exposure to operating model work (product/platform, governance, scaled agile fundamentals) complements my finance and analytics background.
+Desire to grow in enterprise environments (cloud, ERP, digital workplace) and deliver pragmatic pilots with change enablement.
+Relevant Experience & Impact
+Rosen Capital Advisors:
+led compliance/ops platform integration, reducing vendor spend by $120K/year and improving reporting cadence across Legal, IT, Ops.
+Private Equity:
+reviewed $350M–$3.5B transactions; built IRR/waterfall models; drafted IC-ready materials; strengthened structured thinking and executive communications.
+Independent Builder:
+created Python/SQL analytics prototypes and FP&A tooling; delivered executive-ready packs with scenario toggles and reproducible analysis.
+How I Work
+Start with clear problem framing and success metrics; write concise one-pagers and decision memos.
+Translate stakeholder inputs into requirements; balance ambition and feasibility; phase roadmaps.
+Favor small, testable pilots and knowledge transfer; maintain documentation and reproducibility.
+Capabilities Snapshot
+Technology Strategy, Operating Models, Business-IT Alignment, Roadmapping, Agile Fundamentals, SDLC Familiarity.
+Financial Modeling (DCF, IRR, EPV, Waterfalls), KPI Frameworks, Scenario/Sensitivity Analysis, Executive Storytelling.
+Data & Tools: Excel (advanced), PowerPoint, SQL, Python; Power BI/Tableau (prototypes).
+Availability
+Hybrid-ready in Calgary; open to relocation. Excited to contribute to Deloitte TS&T and support clients on technology strategy and operating model engagements.

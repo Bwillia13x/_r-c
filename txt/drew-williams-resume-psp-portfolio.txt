@@ -1,0 +1,31 @@
+Drew Williams - Resume (PSP Portfolio Management - Infrastructure & PE)
+Drew Williams
+Montréal, QC (relocation-ready) | 403-618-6113 | bdrewwilliams@gmail.com | LinkedIn: https://www.linkedin.com/in/drew-williams-ai-strategy | Portfolio: https://www.itfrombit.ca
+Professional Summary
+Portfolio management analyst with infrastructure and private equity exposure. Built asset-level dashboards, valuation oversight models, and governance packs for investment committees. Track capital plans, KPI trajectories, and risk mitigations across diversified portfolios. Combine finance skillset (B.Comm, Distinction) with Python/SQL automation to accelerate reporting and ensure standards for PSP’s infrastructure & PE holdings.
+Core Competencies
+Portfolio Monitoring & Analytics; Valuation Oversight; Performance Reporting; KPI & Covenant Tracking; Governance & IC Materials; Scenario Analysis; Capital Plan Modeling; Excel (advanced); Python/SQL Automation; Power BI/Tableau; Stakeholder Coordination; Risk & Mitigation Narratives.
+Experience
+Independent Builder — AI & Financial Analytics
+·
+Calgary, AB | 2023–Present
+Constructed portfolio dashboards tracking asset KPIs, capital programs, and valuation marks; automated data refresh and variance narratives for IC meetings.
+Developed governance templates summarizing performance drivers, risk highlights, and next steps for infrastructure and PE holdings.
+Implemented Python/SQL workflows to reconcile financial and operational data, ensuring accuracy and timeliness of reporting.
+Rosen Capital Advisors — Financial Analyst
+·
+Los Angeles, CA | 2016–2020
+Monitored portfolio company performance; prepared board materials covering KPIs, valuation updates, and strategic initiatives.
+Led compliance/ops integration reducing vendor spend by $120K/year and reinforcing data governance for portfolio reporting.
+Developed scenario models for capital allocation, liquidity planning, and risk mitigation; presented recommendations to partners.
+Private Equity (Summer Analyst) — Olson Cross & Alamo
+·
+New York, NY | 2015
+Drafted portfolio review memos, valuations, and risk assessments for $350M–$3.5B infrastructure and PE investments.
+Education
+Haskayne School of Business, University of Calgary
+·
+B.Comm, Finance (Distinction) | Graduated 2025
+GPA: 3.9/4.0 (last 90 units) · Haskayne Resilience Scholarship
+Skills & Keywords (ATS — PSP Portfolio Management)
+Portfolio Management; Infrastructure; Private Equity; Valuation Oversight; KPI Tracking; Governance; Investment Committee; Scenario Analysis; Capital Planning; Excel; Python; SQL; Power BI; Tableau; Risk Management; Montréal.

@@ -1,0 +1,23 @@
+Cover Letter - Drew Williams - Palantir Deployment Strategist
+Cover Letter — Palantir Deployment Strategist
+Drew Williams
+Ottawa, ON (relocation-ready) · 403-618-6113 · bdrewwilliams@gmail.com
+Date:
+Deployment Strategist Hiring Team
+Palantir Technologies
+Ottawa, ON
+Dear Hiring Team,
+I am applying for the Deployment Strategist role. I operate at the intersection of analytics, workflow design, and stakeholder enablement—
+translating ambiguous business problems into actionable, AI-enabled solutions. My background spans Python/SQL automation, product configuration,
+and change management across finance and operations teams.
+As an independent builder, I partnered with clients to map current-state processes, identify high-leverage opportunities, and prototype
+decision-support systems. I delivered analytics workflows with audit trails, scenario toggles, and documentation that accelerated adoption.
+At Rosen Capital Advisors I led the rollout of a compliance/operations platform across Legal, IT, and Operations, aligning requirements,
+orchestrating training, and realizing $120K in annual vendor savings.
+Palantir’s mission to pair software with real-world impact resonates strongly with me. I enjoy working alongside cross-functional teams,
+iterating quickly, and building trust through transparent communication and reproducible analysis. I am ready to jump into field deployments,
+drive stakeholder alignment, and help clients realize value from Palantir’s platforms.
+Thank you for considering my application. I would welcome the opportunity to contribute to Palantir’s deployment team and support critical
+initiatives across public and private sector clients.
+Sincerely,
+Drew Williams

@@ -1,0 +1,19 @@
+Cover Letter - Drew Williams - AIMCo Performance Measurement Analyst
+Cover Letter — AIMCo Performance Measurement Analyst
+Drew Williams
+Calgary, AB (relocation-ready to Edmonton) · 403-618-6113 · bdrewwilliams@gmail.com
+Date:
+Talent Acquisition
+Alberta Investment Management Corporation (AIMCo)
+Edmonton, AB
+Dear Hiring Team,
+I am writing to express my interest in the Performance Measurement Analyst opportunity at AIMCo. I bring a finance degree (B.Comm, Distinction)
+and institutional-style reporting experience, including attribution analysis, benchmark comparisons, and memo-first narratives for investment committees.
+As an independent builder I constructed performance dashboards that consolidate returns, benchmarks, and factor exposures across asset classes. Using Python,
+SQL, and Excel, I automated reconciliations, variance diagnostics, and KPI narratives that equip CIO teams with timely insights. During my tenure at Rosen Capital Advisors,
+I maintained P&L and VaR dashboards, supported attribution for partner reviews, and led a compliance/operations integration that improved reporting cadence while reducing vendor spend by $120K annually.
+AIMCo’s mission and scale are compelling to me. I thrive in environments where data governance, accuracy, and thoughtful interpretation drive decisions. The opportunity to work within an institutional
+performance team—ensuring metrics are rigorous and accessible to internal/external stakeholders—aligns well with my toolkit and professional goals.
+Thank you for considering my application. I would welcome the chance to contribute to AIMCo’s reporting cycles immediately, bringing analytical depth, documentation discipline, and clear storytelling to the performance measurement function.
+Sincerely,
+Drew Williams

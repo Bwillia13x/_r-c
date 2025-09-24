@@ -1,0 +1,46 @@
+Drew Williams - Resume (ATS Print-Clean)
+Drew Williams
+Calgary, AB | Mobile: 403-618-6113 | Email: bdrewwilliams@gmail.com | LinkedIn: https://www.linkedin.com/in/drew-williams-ai-strategy | Websites: https://www.itfrombit.ca, https://www.prairiesignal.ca
+Professional Summary
+Quant-trained analyst with experience in corporate finance, due diligence, and valuation, plus hands-on build of AI-enabled analytics tooling (Python/SQL dashboards, valuation engines). At Rosen Capital Advisors, led a compliance/operations platform integration that reduced vendor spend by $120K annually. Private Equity summer analyst experience reviewing $350M to $3.5B transactions, building IRR/waterfall models, and drafting investment committee-ready memoranda. B.Comm (Finance, with Distinction). Target role: Analyst/Consultant, Technology, Strategy & Transformation (Deloitte); strengths in technology strategy, operating models, and business-IT alignment.
+Core Competencies
+Technology Strategy; Operating Model Design; Requirements Gathering; Roadmapping; Portfolio Triage; Agile Fundamentals; SDLC Familiarity; Business Case Development; KPI Frameworks; Financial Modeling (DCF, IRR, EPV, Waterfalls); Scenario & Sensitivity Analysis; Executive Storytelling; Data Analysis; Dashboard Prototyping; SQL; Python; Excel (XLOOKUP, Index/Match, Pivots, Power Query); Power BI/Tableau (prototyping); Cloud Concepts; ERP/Enterprise Apps; Stakeholder Management; Communication; Prioritization under Tight Timelines; AI-Assisted Analysis & Drafting; No-Code Automations.
+Experience
+Independent Builder - AI and Financial Software
+Calgary, AB | 2023-Present
+itfrombit.ca | prairiesignal.ca
+Prototyped valuation and risk analytics (Python/Excel) and a lightweight FP&A workbench; built memo-first reporting flows and scenario toggles for repeatable analysis.
+Advised SMBs on technology enablement (Prairie Signal): AI use-cases, no-code automations, and simple dashboards aligned to business KPIs; translated ambiguous needs into requirements and pilot roadmaps.
+Delivered executive-ready packs with baseline metrics, variance hygiene, and decision options; emphasized reproducibility and documentation for stakeholders.
+Rosen Capital Advisors - Financial Analyst
+Los Angeles, CA | 2016-2020
+Led due diligence and compliance integration; reduced vendor spend by $120K per year; improved reporting cadence across Legal, IT, and Operations.
+Built P&L and VaR dashboards integrating trade and risk data; accelerated analysis cycles for partners; supported investment committee materials and stakeholder communications.
+Coordinated cross-functional inputs; aligned assumptions, reconciliations, and version control to enable repeatable analysis.
+Private Equity (Summer Analyst) - Olson Cross and Alamo
+New York, NY | 2015
+Analyzed $350M to $3.5B transactions; built IRR and waterfall models; drafted investor memoranda and diligence summaries.
+Education
+Haskayne School of Business, University of Calgary
+B.Comm, Finance (with Distinction) | Graduated 2025
+GPA: 3.9/4.0 (last 90 units)
+Haskayne Resilience Scholarship
+Skills (Detailed)
+Technology Strategy and Transformation:
+business-IT alignment; requirements elicitation; roadmaps; operating model thinking (product/platform); scaled agile fundamentals; SDLC familiarity; portfolio/initiative triage.
+Analytics and Financials:
+DCF, EPV, IRR/waterfalls; business cases; KPI frameworks; scenario and sensitivity analysis; executive storytelling.
+Data and BI:
+Excel (advanced: XLOOKUP, Index/Match, PivotTables, Power Query); PowerPoint; SQL; Python; dashboard prototypes (Power BI/Tableau).
+Cloud and Enterprise (familiarity):
+cloud concepts and infrastructure; ERP and enterprise applications; digital workplace technologies.
+AI and Automation:
+generative AI for analysis and drafting; no-code automations; prompt-first workflows; reproducible analyses.
+Soft Skills:
+clear communication; stakeholder engagement; ambiguity navigation; prioritization under tight timelines.
+Additional Information
+Exposure to enterprise stacks (Oracle EPM/Hyperion), modern BI, and cloud/infrastructure concepts; comfortable learning client-specific tools.
+Writing-first approach: concise one-pagers, decision memos, and reconciled decks for leadership audiences.
+Other: operating model; SDLC/product-platform; cloud and enterprise applications.
+Keywords for ATS
+Deloitte; Technology Strategy; TS&T Operating Model; Target Operating Model (TOM); Business-IT Alignment; Enterprise Architecture (awareness); Cloud Strategy; ERP; Digital Workplace; SDLC; Agile; Product Management; Portfolio Management; Business Case; KPI; Financial Modeling; DCF; IRR; EPV; Waterfall Model; Due Diligence; Valuation; SQL; Python; Excel; Power BI; Tableau; Stakeholder Management; Change Management; Requirements; Roadmap; Governance.

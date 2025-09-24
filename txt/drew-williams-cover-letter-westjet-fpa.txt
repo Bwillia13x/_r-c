@@ -1,0 +1,27 @@
+Cover Letter - Drew Williams - WestJet FP&A Financial Analyst
+Cover Letter — WestJet FP&A Financial Analyst
+Drew Williams
+Calgary, AB · 403-618-6113 · bdrewwilliams@gmail.com
+Date:
+Hiring Committee
+WestJet Airlines Ltd.
+Calgary, AB
+Dear Hiring Committee,
+I am excited to apply for the FP&A Financial Analyst role at WestJet. My finance background (B.Comm, Distinction) and
+hands-on experience building driver-based forecasts, scenario models, and executive-ready dashboards align directly with
+WestJet’s need for analytical partners who can connect route profitability, cost structure, and operational metrics to
+actionable recommendations.
+As an independent builder, I designed FP&A workbenches that integrate demand, utilization, and cost drivers; the tooling
+produces rapid insights for leadership on variance drivers and resource allocation. Previously at Rosen Capital Advisors,
+I led the integration of a compliance and operations platform that reduced vendor spend by $120K annually while
+strengthening reporting cadence across Legal, IT, and Operations. In both settings I translated complex, cross-functional
+data into clear narratives that supported executive decision-making under tight timelines.
+WestJet’s hybrid model, pace of change, and direct exposure to network and fleet operations are especially appealing to me.
+I have experience partnering with operational leaders, structuring KPIs, and deploying Python/Excel automation to ensure
+the right data is in the right hands. I am ready to bring that mindset to Calgary head office and contribute to your
+September forecast cycle and year-end planning immediately.
+Thank you for your consideration. I would welcome the opportunity to discuss how my FP&A toolkit—driver-based modeling,
+variance storytelling, and collaborative execution—can help WestJet continue to deliver industry-leading experiences while
+maintaining financial discipline.
+Sincerely,
+Drew Williams

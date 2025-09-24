@@ -35,6 +35,8 @@ This repository contains the most recent resume work tailored for Deloitte Techn
   - `tailoring-notes-2025-09-24.md` — competency highlights for the 10 Canadian roles
 - **`pdf/`**
   - All exported PDFs (baseline variants, ASCII-safe, 10 tailored resumes, cover letters, fit memos)
+- **`txt/`**
+  - Plain-text exports of all resumes, cover letters, and fit memos for quick ATS copy/paste submissions
 
 ## How to Export to PDF
 

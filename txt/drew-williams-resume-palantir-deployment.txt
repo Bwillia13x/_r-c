@@ -1,0 +1,31 @@
+Drew Williams - Resume (Palantir Deployment Strategist)
+Drew Williams
+Ottawa, ON (relocation-ready) | 403-618-6113 | bdrewwilliams@gmail.com | LinkedIn: https://www.linkedin.com/in/drew-williams-ai-strategy | Portfolio: https://www.itfrombit.ca
+Professional Summary
+Deployment strategist focused on blending analytics, workflow design, and stakeholder enablement. Built AI-driven decision systems, translated ambiguous requirements into product configurations, and drove adoption across finance, operations, and compliance teams. Thrive in fast-paced environments where storytelling, rapid iteration, and rigorous documentation are critical to implementation success.
+Core Competencies
+Client Discovery & Requirements; Workflow Design; Analytics & Dashboarding; Change Management; Stakeholder Enablement; Documentation & Training; Python/SQL; Data Modeling; AI Systems Integration; Executive Storytelling; Agile Delivery; Rapid Iteration.
+Experience
+Independent Builder — AI & Financial Analytics
+·
+Calgary, AB | 2023–Present
+Engaged with clients to map current workflows, identify pain points, and design analytics/automation solutions leveraging Python, SQL, and no-code tools.
+Implemented AI-driven reporting systems with audit trails, scenario toggles, and clear documentation; accelerated adoption across finance and operations teams.
+Delivered training, knowledge bases, and playbooks to ensure change readiness and ongoing support.
+Rosen Capital Advisors — Financial Analyst
+·
+Los Angeles, CA | 2016–2020
+Led deployment of compliance/ops integration platform; aligned requirements across legal, IT, and operations; achieved $120K annual savings and faster cycle time.
+Built analytics dashboards and decision frameworks supporting risk/compliance stakeholders; documented workflows and trained users.
+Coordinated cross-functional execution, ensuring communication, feedback loops, and iterative improvements.
+Private Equity (Summer Analyst) — Olson Cross & Alamo
+·
+New York, NY | 2015
+Produced diligence workflows and knowledge repositories for $350M–$3.5B implementations; partnered with ops teams to embed processes.
+Education
+Haskayne School of Business, University of Calgary
+·
+B.Comm, Finance (Distinction) | Graduated 2025
+GPA: 3.9/4.0 (last 90 units) · Haskayne Resilience Scholarship
+Skills & Keywords (ATS — Palantir Deployment Strategist)
+Deployment; Strategy; Analytics; Workflow Design; Change Management; Stakeholder Management; Python; SQL; AI Systems; Product Configuration; Documentation; Training; Ottawa; Hybrid.

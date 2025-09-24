@@ -1,0 +1,24 @@
+Fit Memo - WestJet FP&A Financial Analyst - Drew Williams
+One-Page Fit Memo — WestJet FP&A Financial Analyst
+Candidate: Drew Williams · Calgary, AB · 403-618-6113 · bdrewwilliams@gmail.com
+Why WestJet
+Hybrid Calgary base aligns with my current location and readiness to work on-site with network, fleet, and revenue stakeholders.
+FP&A seat offers direct exposure to airline metrics (CASM, RASM, load factor) and executive-facing storytelling—areas where I already operate.
+Opportunity to blend analytics, automation, and cross-functional collaboration to support schedule, fleet, and revenue decisions.
+Relevant Experience & Impact
+Independent Builder:
+created driver-based forecasting models with scenario toggles for demand, fuel, and capacity; generated variance narratives for leadership.
+Rosen Capital Advisors:
+delivered KPI dashboards integrating revenue, cost, and risk data; led compliance/ops platform integration saving $120K annually.
+Private Equity Analyst:
+analyzed transportation/infrastructure portfolios, producing IC-ready insights and stress tests.
+How I Work
+Begin with clear KPI definitions and variance thresholds; pair quantitative analysis with concise executive memos.
+Partner closely with operations staff to understand drivers and ensure modeling assumptions remain grounded.
+Automate recurring tasks (Python/Excel) so teams can focus on decision-making versus manual reconciliation.
+Capabilities Snapshot
+FP&A, Forecasting, Budgeting, Variance Analysis, KPI Dashboards, Scenario Planning, Executive Storytelling.
+Advanced Excel (modeling, automation), Python, SQL, Power BI/Tableau prototypes.
+Process improvement, cross-functional collaboration, stakeholder communication.
+Availability
+Based in Calgary with hybrid flexibility. Ready to contribute immediately to WestJet’s September forecast cycle and year-end planning.

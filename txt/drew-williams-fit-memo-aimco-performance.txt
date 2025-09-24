@@ -1,0 +1,24 @@
+Fit Memo - AIMCo Performance Measurement Analyst - Drew Williams
+One-Page Fit Memo — AIMCo Performance Measurement Analyst
+Candidate: Drew Williams · Calgary, AB (relocation-ready to Edmonton) · 403-618-6113 · bdrewwilliams@gmail.com
+Why AIMCo
+Institutional mandate and scale match my experience producing attribution and benchmark reporting for investment committees.
+Opportunity to embed automation and controls within performance measurement workflows; aligns with my Python/SQL toolkit.
+Excited to support both internal and external stakeholders with rigorous, well-documented performance narratives.
+Relevant Experience & Impact
+Independent Builder:
+built performance dashboards consolidating returns, benchmarks, and factor exposures; automated variance narratives for CIO teams.
+Rosen Capital Advisors:
+maintained P&L and VaR dashboards; delivered attribution insights to partners; led compliance/ops integration saving $120K annually.
+Private Equity Analyst:
+produced investment memoranda highlighting manager performance, benchmarks, and risk considerations for $350M–$3.5B allocations.
+How I Work
+Prioritize data quality and reconciliation; build audit trails and documentation for every transformation.
+Pair quantitative findings with concise memo narratives to guide decision-makers.
+Automate recurring tasks to free time for deeper analysis and stakeholder engagement.
+Capabilities Snapshot
+Performance measurement, attribution, benchmarking, risk-adjusted metrics, institutional reporting.
+Advanced Excel, Python, SQL, Power BI/Tableau; documentation and process controls.
+Stakeholder communication, timeline management, continuous improvement mindset.
+Availability
+Ready to relocate to Edmonton and begin supporting AIMCo’s performance measurement team immediately.

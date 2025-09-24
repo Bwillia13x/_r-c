@@ -1,0 +1,22 @@
+Cover Letter - Drew Williams - PSP Portfolio Management (Infrastructure & PE)
+Cover Letter — PSP Investments Portfolio Management (Infrastructure & Private Equity)
+Drew Williams
+Montréal, QC (relocation-ready) · 403-618-6113 · bdrewwilliams@gmail.com
+Date:
+Hiring Committee
+PSP Investments
+Montréal, QC
+Dear Hiring Committee,
+I am applying for the Analyst/Senior Analyst, Portfolio Management role within PSP’s Infrastructure & Private Equity group. I bring a finance
+degree (B.Comm, Distinction) and practical experience building asset-level dashboards, valuation oversight models, and governance materials that
+keep investment teams, risk, and finance aligned.
+As an independent builder I constructed portfolio monitoring suites that track KPIs, valuation marks, capital plans, and governance milestones.
+Using Python/SQL/Excel automations I reconciled data sources, surfaced variance narratives, and packaged findings for investment committees.
+Previously at Rosen Capital Advisors I prepared board materials for portfolio companies, ran scenario analysis on capital allocation decisions,
+and led a compliance/ops integration that improved reporting cadence while saving $120K annually.
+PSP’s global infrastructure and PE holdings present the complexity and impact I’m eager to support. I enjoy partnering with deal teams and operating
+leaders, maintaining disciplined documentation, and ensuring recommendations are grounded in both financial and operational reality.
+Thank you for considering my application. I look forward to the chance to contribute to PSP’s portfolio governance, analytics, and strategic initiatives
+from day one.
+Sincerely,
+Drew Williams

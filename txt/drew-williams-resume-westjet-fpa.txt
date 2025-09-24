@@ -1,0 +1,31 @@
+Drew Williams - Resume (WestJet FP&A Financial Analyst)
+Drew Williams
+Calgary, AB (Hybrid-ready) | 403-618-6113 | bdrewwilliams@gmail.com | LinkedIn: https://www.linkedin.com/in/drew-williams-ai-strategy | Portfolio: https://www.itfrombit.ca
+Professional Summary
+FP&A and strategy analyst with a finance degree (Distinction) and airline/transport familiarity. Built driver-based models, scenario analyses, and executive-ready reporting packs that frame route profitability, cost structure, and capacity trade-offs. Led compliance/ops integration saving $120K annually and developed AI-enabled dashboards for variance storytelling. Comfortable partnering with network, fleet, and revenue leaders to turn data into decisions at speed.
+Core Competencies
+Driver-Based Forecasting; Budgeting & Planning Cycles; Variance Analysis & KPI Dashboards; Scenario Modeling (capacity, fuel, demand); Executive Storytelling & Board Materials; Cross-Functional Collaboration (Ops, Network, Finance); SQL & Python Analytics; Excel (advanced); Power BI/Tableau Prototyping; AI-Accelerated Analysis; Process Automation; Stakeholder Communication.
+Experience
+Independent Builder — AI & Financial Analytics
+·
+Calgary, AB | 2023–Present
+Designed FP&A workbench with driver-based models and scenario toggles capturing demand, cost, and utilization sensitivities; produced variance narratives for leadership.
+Implemented automated KPI dashboards (Excel/Python) highlighting revenue, margin, and operational efficiency trends; accelerated monthly close storytelling.
+Partnered with SMB executives to align budgeting cadences, capacity planning, and cash forecasts; delivered exec-ready packs and action recommendations.
+Rosen Capital Advisors — Financial Analyst
+·
+Los Angeles, CA | 2016–2020
+Owned revenue/cost dashboards integrating trade and operational data; provided variance insights and scenario recommendations to partners.
+Led integration of compliance/ops platform; reduced vendor spend by $120K/year, tightened reporting cadence, and improved cross-department visibility.
+Created board-quality materials summarizing KPI trends, risk factors, and mitigation plans; ensured stakeholders received concise, decision-ready analyses.
+Private Equity (Summer Analyst) — Olson Cross & Alamo
+·
+New York, NY | 2015
+Developed IRR/NPV models and sensitivity analysis for transportation and infrastructure deals; produced investment committee memos with actionable recommendations.
+Education
+Haskayne School of Business, University of Calgary
+·
+B.Comm, Finance (Distinction) | Graduated 2025
+GPA: 3.9/4.0 (last 90 units) · Haskayne Resilience Scholarship
+Skills & Keywords (ATS — WestJet FP&A)
+FP&A Financial Planning; Forecasting; Budgeting; Variance Analysis; KPI Dashboards; Route Profitability; CASM; RASM; Load Factor; Scenario Planning; Executive Reporting; Power BI; Tableau; Excel; Python; SQL; Operational Analytics; Stakeholder Management; Aviation; Hybrid Work; Calgary.

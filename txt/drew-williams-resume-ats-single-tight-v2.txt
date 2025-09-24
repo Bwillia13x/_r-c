@@ -1,0 +1,35 @@
+Drew Williams - Resume (ATS Single Page - Deloitte TS&T v2)
+Drew Williams
+Calgary, AB (Hybrid, open to relocation incl. Toronto) | Mobile: 403-618-6113 | Email: bdrewwilliams@gmail.com | LinkedIn: https://www.linkedin.com/in/drew-williams-ai-strategy | Portfolio: https://www.itfrombit.ca
+Professional Summary
+Early-career consultant/analyst (1–3 years exposure) at the intersection of business and technology. Experience across technology strategy, operating models (product/platform), requirements elicitation/validation, and roadmapping. Built analytics tooling (Python/SQL dashboards, valuation engines) and executive reporting. Led a compliance/operations platform integration reducing vendor spend by $120K annually. Comfortable with cloud, ERP, digital workplace; strong Excel/PowerPoint. Collaborative, fast-paced, and outcomes‑oriented; uses AI tools to increase productivity.
+Core Competencies
+Technology Strategy; Business–IT Alignment; Operating Model (product/platform, governance); Requirements & Stakeholder Management; Roadmaps & Portfolio Triage; SDLC Awareness; Agile Fundamentals; Problem Structuring & Root Cause Analysis; KPI Frameworks & Business Cases; Financial Modeling (DCF, IRR, EPV, waterfalls); Data Analysis; Dashboard Prototyping; AI‑Assisted Analysis; No‑Code Automations.
+Experience
+Independent Builder — AI & Financial Software
+·
+Calgary, AB | 2023–Present
+itfrombit.ca
+Advised SMBs on technology enablement: elicited requirements, identified use‑cases, and created pragmatic pilot roadmaps aligned to KPIs.
+Prototyped valuation/risk analytics (Python/Excel) and FP&A tooling; memo‑first reporting flows with scenario toggles for repeatability.
+Delivered executive‑ready packs and lightweight dashboards; emphasized clarity, alignment, and documentation.
+Rosen Capital Advisors — Financial Analyst
+·
+Los Angeles, CA | 2016–2020
+Led compliance/operations platform integration; reduced vendor spend by $120K/year; improved reporting cadence across Legal, IT, and Operations.
+Built P&L and VaR dashboards integrating trade/risk data; accelerated partner analysis cycles; supported IC materials and communications.
+Coordinated cross‑functional inputs; aligned assumptions and reconciliations; maintained version control for repeatable analysis.
+Private Equity (Summer Analyst) — Olson Cross & Alamo
+·
+New York, NY | 2015
+Analyzed $350M–$3.5B transactions; built IRR and waterfall models; drafted investor memoranda and diligence summaries.
+Education
+Haskayne School of Business, University of Calgary
+·
+B.Comm, Finance (Distinction) | Graduated 2025
+GPA: 3.9/4.0 (last 90 units)
+Haskayne Resilience Scholarship
+Skills & Tools
+Excel (XLOOKUP, Index/Match, PivotTables, Power Query); PowerPoint; SQL; Python; Power BI/Tableau (prototypes); Cloud concepts; ERP/enterprise apps; Digital workplace; AI tools (generative AI, automation platforms) for analysis/drafting.
+Keywords (ATS — Deloitte TS&T)
+Technology Strategy; Transformation; TS&T Operating Model; Target Operating Model; Business–IT Alignment; Cloud; ERP; Digital Workplace; SDLC; Agile; Product & Platform; Portfolio Management; Requirements; Roadmap; Governance; KPI; DCF; IRR; EPV; Due Diligence; Valuation; SQL; Python; Excel; PowerPoint; BI; Stakeholder Management; Change Management; AI; Automation; Continuous Learner; Team Collaboration; Toronto (open to relocate).

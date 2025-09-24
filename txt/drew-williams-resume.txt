@@ -1,0 +1,66 @@
+Drew Williams — Resume (Deloitte TS&T — Analyst/Consultant)
+Drew Williams
+Calgary, AB (Hybrid‑Ready, Open to Relocation) · +1 403 618 6113 ·
+bdrewwilliams@gmail.com
+·
+linkedin.com/in/drew-williams-ai-strategy
+·
+itfrombit.ca
+·
+prairiesignal.ca
+Education
+Haskayne School of Business, University of Calgary
+— B.Comm (Finance), with distinction
+Graduated 2025
+GPA 3.9/4.0 — last 90 units
+Haskayne Resilience Scholarship
+Professional Summary
+Quant‑trained analyst with experience in corporate finance, due diligence, and valuation, plus hands‑on build of
+AI‑enabled analytics tooling (Python/SQL dashboards, valuation engines). At Rosen Capital Advisors, led a
+compliance/ops platform integration that reduced vendor spend by
+$120K annually
+. Private Equity
+summer analyst experience red‑lining $350M–$3.5B PPMs, building IRR/waterfall models, and drafting IC‑ready memoranda.
+B.Comm (Finance, Distinction).
+— Targeting
+Analyst/Consultant, Technology, Strategy & Transformation
+at
+Deloitte
+(technology strategy; operating models).
+Core Skills & Tools
+Technology Strategy & Transformation:
+business–IT alignment; requirements elicitation; roadmap & operating model thinking (product/platform, scaled agile fundamentals); SDLC familiarity; portfolio/initiative triage.
+Analytics & Financials:
+DCF, EPV, IRR/waterfalls; business cases; KPI frameworks; scenario & sensitivity analysis; executive‑level storytelling.
+Data & BI:
+Excel (advanced: XLOOKUP/INDEX‑MATCH, Pivots, Power Query), PowerPoint, SQL, Python; dashboard prototypes (Power BI/Tableau).
+Cloud & Enterprise (familiarity):
+cloud concepts and infra, ERP/enterprise apps, digital workplace technologies.
+AI & Automation:
+generative AI for analysis & drafting; no‑code automations; prompt‑first workflows; reproducible analyses.
+Soft Skills:
+clear communication, stakeholder engagement, ambiguity navigation, prioritization under tight timelines.
+Experience
+Independent Builder — AI & Financial Software
+Calgary, AB · 2023–Present
+itfrombit.ca · prairiesignal.ca
+Prototyped valuation/risk analytics (Python/Excel) and lightweight FP&A workbench; built memo‑first reporting flows and scenario toggles.
+Advised SMBs on
+technology enablement
+(Prairie Signal): AI use‑cases, no‑code automations, and simple dashboards aligned to business KPIs; translated ambiguous needs into clear requirements and pilot roadmaps.
+Delivered executive‑ready packs with baseline metrics, variance hygiene, and decision options; emphasized reproducibility and documentation.
+Rosen Capital Advisors — Financial Analyst
+Los Angeles, CA · 2016–2020
+Led due diligence and compliance integration; reduced vendor spend by
+$120K/year
+; improved reporting cadence across Legal, IT, and Ops.
+Built P&L/VaR dashboards integrating trade/risk data; accelerated analysis cycles for partners; supported IC materials and stakeholder comms.
+Coordinated cross‑functional inputs; aligned assumptions, reconciliations, and version control for repeatable analysis.
+Private Equity (Summer Analyst) — Olson Cross & Alamo
+New York, NY · 2015
+Analyzed $350M–$3.5B transactions; built IRR/waterfall models; drafted investor memoranda and diligence summaries.
+Additional Information
+Exposure to enterprise stacks (Oracle EPM/Hyperion), modern BI, and cloud/infra concepts; comfortable learning client‑specific tools.
+Writing‑first approach: clear one‑pagers, decision memos, and reconciled decks for leadership audiences.
+Other:
+operating model · SDLC/product–platform · cloud & enterprise apps.
