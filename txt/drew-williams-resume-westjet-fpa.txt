@@ -1,31 +1,58 @@
-Drew Williams - Resume (WestJet FP&A Financial Analyst)
 Drew Williams
-Calgary, AB (Hybrid-ready) | 403-618-6113 | bdrewwilliams@gmail.com | LinkedIn: https://www.linkedin.com/in/drew-williams-ai-strategy | Portfolio: https://www.itfrombit.ca
-Professional Summary
-FP&A and strategy analyst with a finance degree (Distinction) and airline/transport familiarity. Built driver-based models, scenario analyses, and executive-ready reporting packs that frame route profitability, cost structure, and capacity trade-offs. Led compliance/ops integration saving $120K annually and developed AI-enabled dashboards for variance storytelling. Comfortable partnering with network, fleet, and revenue leaders to turn data into decisions at speed.
-Core Competencies
-Driver-Based Forecasting; Budgeting & Planning Cycles; Variance Analysis & KPI Dashboards; Scenario Modeling (capacity, fuel, demand); Executive Storytelling & Board Materials; Cross-Functional Collaboration (Ops, Network, Finance); SQL & Python Analytics; Excel (advanced); Power BI/Tableau Prototyping; AI-Accelerated Analysis; Process Automation; Stakeholder Communication.
-Experience
-Independent Builder — AI & Financial Analytics
+Calgary, AB (Hybrid-ready, Open to Relocation) · 403-618-6113 ·
+bdrewwilliams@gmail.com
 ·
-Calgary, AB | 2023–Present
-Designed FP&A workbench with driver-based models and scenario toggles capturing demand, cost, and utilization sensitivities; produced variance narratives for leadership.
-Implemented automated KPI dashboards (Excel/Python) highlighting revenue, margin, and operational efficiency trends; accelerated monthly close storytelling.
-Partnered with SMB executives to align budgeting cadences, capacity planning, and cash forecasts; delivered exec-ready packs and action recommendations.
-Rosen Capital Advisors — Financial Analyst
+linkedin.com/in/drew-williams-ai-strategy
 ·
-Los Angeles, CA | 2016–2020
-Owned revenue/cost dashboards integrating trade and operational data; provided variance insights and scenario recommendations to partners.
-Led integration of compliance/ops platform; reduced vendor spend by $120K/year, tightened reporting cadence, and improved cross-department visibility.
-Created board-quality materials summarizing KPI trends, risk factors, and mitigation plans; ensured stakeholders received concise, decision-ready analyses.
-Private Equity (Summer Analyst) — Olson Cross & Alamo
+itfrombit.ca
 ·
-New York, NY | 2015
-Developed IRR/NPV models and sensitivity analysis for transportation and infrastructure deals; produced investment committee memos with actionable recommendations.
+prairiesignal.ca
 Education
-Haskayne School of Business, University of Calgary
-·
-B.Comm, Finance (Distinction) | Graduated 2025
-GPA: 3.9/4.0 (last 90 units) · Haskayne Resilience Scholarship
-Skills & Keywords (ATS — WestJet FP&A)
-FP&A Financial Planning; Forecasting; Budgeting; Variance Analysis; KPI Dashboards; Route Profitability; CASM; RASM; Load Factor; Scenario Planning; Executive Reporting; Power BI; Tableau; Excel; Python; SQL; Operational Analytics; Stakeholder Management; Aviation; Hybrid Work; Calgary.
+Haskayne School of Business, University of Calgary — B.Comm (Finance), with distinction
+Graduated 2025
+GPA 3.9/4.0 — last 90 units
+Haskayne Resilience Scholarship
+Professional Summary
+Quant-trained FP&A analyst with airline and transport familiarity. Built driver-based models, scenario toggles, and memo-first dashboards that translate route profitability, CASM/RASM, and load factor into decisions. Led a compliance/ops platform integration that reduced vendor spend by
+$120K annually
+while tightening reporting cadence. Comfortable partnering with network, fleet, and revenue leaders to navigate capacity, fuel, and demand trade-offs.
+— Targeting
+FP&A Financial Analyst
+at
+WestJet
+(driver-based forecasting; operational analytics).
+Core Skills & Tools
+FP&A Execution:
+driver-based forecasting, budgeting/plan cycles, variance narratives, executive-ready reporting.
+Airline Metrics:
+route profitability, CASM/RASM, load factor, capacity & fuel sensitivities, network economics.
+Analytics Stack:
+Excel (advanced), Python, SQL, Power BI/Tableau prototypes, memo-first storytelling.
+Automation & AI:
+generative AI for variance analysis, reproducible workflows, documentation discipline.
+Stakeholder Skills:
+cross-functional collaboration (Ops, Network, Finance), clear communication, urgency with control.
+Experience
+Independent Builder — AI & Financial Software
+Calgary, AB · 2023–Present
+itfrombit.ca · prairiesignal.ca
+Prototyped FP&A workbench with driver-based models and scenario toggles capturing demand, cost, and utilization sensitivities; produced executive variance narratives within 48-hour close windows.
+Automated KPI dashboards (Excel/Python/SQL) highlighting revenue, margin, and operational efficiency trends; accelerated variance hygiene and storytelling.
+Partnered with SMB leaders to align budgeting cadence, capacity planning, and cash forecasts; delivered executive-ready packs with actions tied to capacity decisions.
+Rosen Capital Advisors — Financial Analyst
+Los Angeles, CA · 2016–2020
+Owned revenue/cost dashboards integrating trade and operational data; surfaced variance signals and scenario recommendations for partners.
+Led compliance/operations platform integration; reduced vendor spend by
+$120K/year
+, improved reporting cadence, and increased transparency across Legal, IT, and Operations.
+Created board-ready materials summarizing KPI trends, risk factors, and mitigations; ensured decision-makers received concise options.
+Private Equity (Summer Analyst) — Olson Cross & Alamo
+New York, NY · 2015
+Developed IRR/NPV models and scenario analysis for transportation & infrastructure deals; drafted IC-ready investment memoranda.
+Additional Information
+Comfortable with airline scheduling, yield management concepts, and translating network assumptions into finance narratives.
+Writing-first approach: concise one-pagers, decision memos, reconciled decks for leadership audiences.
+Other:
+operating model alignment · SDLC familiarity · cloud & enterprise apps exposure.
+ATS Keywords
+FP&A; Financial Planning; Forecasting; Budgeting; Variance Analysis; KPI Dashboards; Route Profitability; CASM; RASM; Load Factor; Scenario Planning; Executive Reporting; Power BI; Tableau; Excel; Python; SQL; Operational Analytics; Stakeholder Management; Aviation; Hybrid Work; Calgary.

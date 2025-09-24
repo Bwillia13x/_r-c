@@ -1,31 +1,58 @@
-Drew Williams - Resume (TransAlta Corporate Development Analyst)
 Drew Williams
-Calgary, AB (Hybrid, open to energy travel) | 403-618-6113 | bdrewwilliams@gmail.com | LinkedIn: https://www.linkedin.com/in/drew-williams-ai-strategy | Portfolio: https://www.itfrombit.ca
-Professional Summary
-Corporate development analyst with thesis-driven valuation experience across energy transition, infrastructure, and technology. Built DCF/transaction models, scenario analysis, and investment committee memos for $350M–$3.5B deals; led platform integrations delivering $120K annual savings. Comfortable screening opportunities, coordinating diligence, and translating market intelligence into board-ready recommendations aligned with power/renewables strategy.
-Core Competencies
-M&A Screening & Pipeline Management; Valuation Models (DCF, precedent, accretion/dilution); Scenario & Sensitivity Analysis; Strategic Fit Assessment; Energy & Power Sector Research; Deal Execution Support; Due Diligence Coordination; Investment Committee Memos; Stakeholder Alignment; Excel (advanced); Python/SQL Analytics; AI-Accelerated Research.
-Experience
-Independent Builder — AI & Financial Analytics
+Calgary, AB (Hybrid-ready, Open to Relocation) · 403-618-6113 ·
+bdrewwilliams@gmail.com
 ·
-Calgary, AB | 2023–Present
-Developed investment screening frameworks combining market data, regulatory trends, and asset KPIs; delivered short-form diligence memos with go/no-go recommendations.
-Built valuation engines (Python/Excel) with scenario toggles for commodity curves, carbon pricing, and policy incentives; ensured audit-ready calculations.
-Produced executive decks translating financial outcomes into strategic rationales for investment committees and operating partners.
-Rosen Capital Advisors — Financial Analyst
+linkedin.com/in/drew-williams-ai-strategy
 ·
-Los Angeles, CA | 2016–2020
-Led diligence workstreams for platform add-ons and strategic partnerships; prepared IC-ready materials summarizing valuation, risk, and integration plans.
-Constructed DCF, LBO, and accretion/dilution models for energy-infrastructure adjacencies; evaluated scenarios against strategic objectives.
-Implemented compliance/ops integration program, reducing vendor spend by $120K/year and enhancing reporting cadence to the deal team.
-Private Equity (Summer Analyst) — Olson Cross & Alamo
+itfrombit.ca
 ·
-New York, NY | 2015
-Analyzed $350M–$3.5B transactions; built IRR/NPV and debt sizing models; drafted investment memoranda with strategic fit, diligence findings, and value creation plans.
+prairiesignal.ca
 Education
-Haskayne School of Business, University of Calgary
-·
-B.Comm, Finance (Distinction) | Graduated 2025
-GPA: 3.9/4.0 (last 90 units) · Haskayne Resilience Scholarship
-Skills & Keywords (ATS — TransAlta Corporate Development)
-Corporate Development; M&A Valuation; DCF; Accretion/Dilution; Scenario Analysis; Market Intelligence; Power; Renewables; Energy Transition; Due Diligence; Investment Committee; Strategic Planning; Financial Modeling; Python; SQL; Excel; Stakeholder Management; Calgary.
+Haskayne School of Business, University of Calgary — B.Comm (Finance), with distinction
+Graduated 2025
+GPA 3.9/4.0 — last 90 units
+Haskayne Resilience Scholarship
+Professional Summary
+Corporate development analyst with valuation, diligence, and market intelligence experience across power, renewables, and adjacent infrastructure. Built DCF/transaction models, scenario analysis, and IC-ready memos for $350M–$3.5B transactions; led a compliance/ops integration that reduced vendor spend by
+$120K annually
+. Comfortable screening opportunities, coordinating cross-functional diligence, and translating policy/market signals into actionable board recommendations.
+— Targeting
+Corporate Development Analyst
+at
+TransAlta
+(energy transition, M&A execution).
+Core Skills & Tools
+M&A & Strategy:
+thesis-driven screening, pipeline tracking, strategic fit scoring, board-ready storytelling.
+Valuation & Modeling:
+DCF, precedent, accretion/dilution, IRR/NPV waterfalls, carbon & commodity scenario toggles.
+Energy Sector Insight:
+power & renewables research, regulatory/market monitoring, asset KPI benchmarking.
+Analytics Stack:
+Excel (advanced), Python, SQL; memo-first documentation and reproducible models.
+Deal Execution:
+diligence coordination, stakeholder alignment, integration planning, executive communications.
+Experience
+Independent Builder — AI & Financial Software
+Calgary, AB · 2023–Present
+itfrombit.ca · prairiesignal.ca
+Developed energy investment screening frameworks combining market data, regulatory signals, and asset KPIs; produced diligence briefs with go/no-go calls.
+Built valuation engines (Python/Excel) with carbon pricing, commodity curves, and policy incentives toggles; maintained audit-ready documentation.
+Packaged strategy decks translating financial outcomes into grid/renewables rationales for investment committees and operating partners.
+Rosen Capital Advisors — Financial Analyst
+Los Angeles, CA · 2016–2020
+Led diligence workstreams for platform add-ons and strategic partnerships; delivered IC-ready materials synthesizing valuation, risk, and integration plans.
+Constructed DCF, LBO, and accretion/dilution models for energy-infrastructure adjacencies; pressure-tested scenarios against strategic objectives.
+Implemented compliance/ops platform integration, reducing vendor spend by
+$120K/year
+and tightening reporting cadence to the deal team.
+Private Equity (Summer Analyst) — Olson Cross & Alamo
+New York, NY · 2015
+Analyzed $350M–$3.5B transactions; built IRR/NPV and debt sizing models; drafted investment memoranda covering strategic fit and value creation plans.
+Additional Information
+Strong grasp of power market fundamentals, dispatch dynamics, and policy trends influencing capital deployment.
+Writing-first approach: concise diligence notes, decision memos, reconciled board decks.
+Other:
+operating model alignment · SDLC familiarity · cloud & enterprise apps exposure.
+ATS Keywords
+Corporate Development; M&A; Valuation; DCF; Accretion/Dilution; Scenario Analysis; Market Intelligence; Power; Renewables; Energy Transition; Due Diligence; Investment Committee; Strategic Planning; Financial Modeling; Python; SQL; Excel; Stakeholder Management; Calgary.

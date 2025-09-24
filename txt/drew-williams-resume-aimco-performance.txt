@@ -1,31 +1,58 @@
-Drew Williams - Resume (AIMCo Performance Measurement Analyst)
 Drew Williams
-Calgary, AB (relocation-friendly to Edmonton) | 403-618-6113 | bdrewwilliams@gmail.com | LinkedIn: https://www.linkedin.com/in/drew-williams-ai-strategy | Portfolio: https://www.itfrombit.ca
+Calgary, AB (Relocation-ready to Edmonton) · 403-618-6113 ·
+bdrewwilliams@gmail.com
+·
+linkedin.com/in/drew-williams-ai-strategy
+·
+itfrombit.ca
+·
+prairiesignal.ca
+Education
+Haskayne School of Business, University of Calgary — B.Comm (Finance), with distinction
+Graduated 2025
+GPA 3.9/4.0 — last 90 units
+Haskayne Resilience Scholarship
 Professional Summary
-Performance analytics professional with institutional-grade reporting experience. Built attribution dashboards, benchmark comparisons, and memo-first reporting for investment committees. Skilled at reconciling data across custodians, enforcing controls, and presenting insights to senior stakeholders. Combines finance training (B.Comm, Distinction) with Python/SQL automation to accelerate monthly and quarterly performance packages.
-Core Competencies
-Performance Measurement & Attribution; Benchmarking; KPI Frameworks; Data Quality & Controls; Institutional Reporting; Executive Memos; Excel (advanced); Python/SQL Automation; BI Dashboards (Power BI/Tableau); Variance Storytelling; Stakeholder Communication; Process Improvement.
+Performance analytics professional with institutional-grade reporting experience. Built attribution dashboards, benchmark comparisons, and memo-first reporting for investment committees. Experienced reconciling data across custodians, enforcing controls, and presenting insights to senior stakeholders. Led a compliance/ops integration that reduced vendor spend by
+$120K annually
+while improving cadence.
+— Targeting
+Performance Measurement Analyst
+at
+AIMCo
+(institutional reporting; attribution analysis).
+Core Skills & Tools
+Performance Measurement:
+attribution, benchmark construction, variance narratives, risk-adjusted metrics.
+Data Quality & Controls:
+reconciliation workflows, audit trails, documentation discipline, policy adherence.
+Analytics Stack:
+Excel (advanced), Python, SQL, Power BI/Tableau; memo-first reporting packages.
+Process Improvement:
+automation of recurring deliverables, KPI frameworks, SLA tracking.
+Stakeholder Communication:
+CIO/IC briefings, executive-ready storytelling, cross-functional collaboration.
 Experience
-Independent Builder — AI & Financial Analytics
-·
-Calgary, AB | 2023–Present
+Independent Builder — AI & Financial Software
+Calgary, AB · 2023–Present
+itfrombit.ca · prairiesignal.ca
 Created performance measurement suite consolidating returns, benchmarks, and attribution drivers; automated variance narratives for CIO audiences.
-Implemented Python/SQL workflows to reconcile data sources, flag anomalies, and ensure controls for reporting cycles.
-Produced quarterly reports and dashboards for asset owners detailing risk-adjusted performance, KPI trends, and action recommendations.
+Implemented Python/SQL workflows to reconcile data sources, flag anomalies, and maintain controls across reporting cycles.
+Produced quarterly packs for asset owners detailing risk-adjusted performance, KPI trends, and recommended follow-ups.
 Rosen Capital Advisors — Financial Analyst
-·
-Los Angeles, CA | 2016–2020
-Maintained P&L and VaR dashboards integrating market and operational data; provided attribution insights to partners and risk committees.
-Led compliance/ops platform integration reducing vendor spend by $120K/year; strengthened reporting cadence and data governance.
+Los Angeles, CA · 2016–2020
+Maintained P&L/VaR dashboards integrating market and operational data; delivered attribution insights to partners and risk committees.
+Led compliance/operations platform integration reducing vendor spend by
+$120K/year
+and strengthening reporting cadence and controls.
 Delivered IC-ready narratives summarizing performance drivers, scenario analysis, and mitigation plans.
 Private Equity (Summer Analyst) — Olson Cross & Alamo
-·
-New York, NY | 2015
+New York, NY · 2015
 Produced investment memoranda highlighting manager performance, benchmarks, and risk factors for $350M–$3.5B transactions.
-Education
-Haskayne School of Business, University of Calgary
-·
-B.Comm, Finance (Distinction) | Graduated 2025
-GPA: 3.9/4.0 (last 90 units) · Haskayne Resilience Scholarship
-Skills & Keywords (ATS — AIMCo Performance Measurement)
+Additional Information
+Experienced in institutional governance rhythms (monthly/quarterly close, partner reviews, compliance requirements).
+Writing-first approach: concise one-pagers, decision memos, reconciled decks for leadership.
+Other:
+operating model alignment · SDLC familiarity · cloud & enterprise apps exposure.
+ATS Keywords
 Performance Measurement; Attribution; Benchmarks; Institutional Reporting; Data Quality; Controls; Excel; Python; SQL; Power BI; Tableau; KPI; Risk-Adjusted Metrics; Executive Communication; Edmonton; Hybrid.

@@ -1,31 +1,58 @@
-Drew Williams - Resume (Cenovus Corporate Development Analyst)
 Drew Williams
-Calgary, AB (Hybrid; integrated energy focus) | 403-618-6113 | bdrewwilliams@gmail.com | LinkedIn: https://www.linkedin.com/in/drew-williams-ai-strategy | Portfolio: https://www.itfrombit.ca
+Calgary, AB (Hybrid-ready, Open to Relocation) · 403-618-6113 ·
+bdrewwilliams@gmail.com
+·
+linkedin.com/in/drew-williams-ai-strategy
+·
+itfrombit.ca
+·
+prairiesignal.ca
+Education
+Haskayne School of Business, University of Calgary — B.Comm (Finance), with distinction
+Graduated 2025
+GPA 3.9/4.0 — last 90 units
+Haskayne Resilience Scholarship
 Professional Summary
-Finance and strategy analyst with integrated energy exposure across upstream, downstream, and midstream portfolios. Built end-to-end valuation models, synergy cases, and strategy decks for large-cap operators and private equity sponsors. Experienced aligning capital plans, refining forecasts, and translating complex data into executive-ready decisions. Led technology-enabled integrations delivering $120K annual savings and faster reporting cadence.
-Core Competencies
-Integrated Portfolio Strategy; M&A & JV Evaluation; Synergy & Scenario Modeling; Capital Allocation Analysis; Market & Policy Intelligence; Executive Narrative Development; Cross-Functional Collaboration (Ops, Supply, Finance); KPI Frameworks; Excel (advanced); Python/SQL Analytics; PowerPoint Storytelling; AI-Assisted Research.
+Finance and strategy analyst with integrated energy exposure across upstream, midstream, and downstream portfolios. Built end-to-end valuation models, synergy cases, and executive decks for large-cap operators and sponsors. Led a compliance/ops integration that reduced vendor spend by
+$120K annually
+while tightening reporting cadence. Experienced aligning capital plans, refining forecasts, and translating complex data into decision-ready materials.
+— Targeting
+Corporate Development Analyst
+at
+Cenovus
+(integrated portfolio optimization, energy transition).
+Core Skills & Tools
+Integrated Portfolio:
+upstream-midstream-downstream valuation, synergy modelling, capital allocation design.
+Strategy & Analytics:
+business cases, KPI frameworks, scenario/sensitivity analysis, ESG & policy overlays.
+Data & Tooling:
+Excel (advanced), Python, SQL, PowerPoint storytelling, automation for reconciliations.
+Market Intelligence:
+crude differentials, refining margins, regulatory monitoring, competitive benchmarking.
+Stakeholder Skills:
+cross-functional collaboration (Ops, Supply, Finance), clear communication, change enablement.
 Experience
-Independent Builder — AI & Financial Analytics
-·
-Calgary, AB | 2023–Present
-Crafted integrated valuation models covering upstream production, midstream logistics, and downstream margins; embedded scenario toggles for crude differentials and policy shifts.
-Produced strategy briefs aligning capital programs with corporate objectives, ESG, and market signals; delivered to executive sponsors.
-Built automation to reconcile operational data with financial forecasts, improving accuracy and response time for capital planning.
+Independent Builder — AI & Financial Software
+Calgary, AB · 2023–Present
+itfrombit.ca · prairiesignal.ca
+Crafted integrated valuation models spanning production, logistics, and refining margins; embedded scenario toggles for crude differentials, policy shifts, and ESG targets.
+Produced strategy briefs aligning capital programs with corporate objectives, market signals, and risk appetite; delivered to executive sponsors.
+Automated reconciliation of operational data with financial forecasts, improving accuracy and response time for capital planning.
 Rosen Capital Advisors — Financial Analyst
-·
-Los Angeles, CA | 2016–2020
-Developed deal models and synergy cases for energy and infrastructure assets; assessed integration pathways and operational value drivers.
-Led compliance/ops platform integration reducing vendor spend by $120K/year and enhancing reporting cadence for deal teams.
+Los Angeles, CA · 2016–2020
+Developed deal models and synergy cases for energy/infrastructure assets; assessed integration pathways and operational value drivers.
+Led compliance/ops platform integration reducing vendor spend by
+$120K/year
+and enhancing reporting cadence for deal teams.
 Authored IC-ready presentations summarizing valuation, risk, and implementation plans; coordinated cross-functional diligence inputs.
 Private Equity (Summer Analyst) — Olson Cross & Alamo
-·
-New York, NY | 2015
-Analyzed $350M–$3.5B energy and infrastructure deals; prepared investment memoranda highlighting strategic fit, KPIs, and downside protections.
-Education
-Haskayne School of Business, University of Calgary
-·
-B.Comm, Finance (Distinction) | Graduated 2025
-GPA: 3.9/4.0 (last 90 units) · Haskayne Resilience Scholarship
-Skills & Keywords (ATS — Cenovus Corporate Development)
-Corporate Development; Integrated Energy; Portfolio Strategy; M&A Joint Ventures; Synergy Analysis; Scenario Planning; Capital Allocation; Valuation; KPI Frameworks; Market Intelligence; Excel; Python; SQL; PowerPoint; Calgary; Hybrid.
+New York, NY · 2015
+Analyzed $350M–$3.5B energy & infrastructure deals; prepared memoranda highlighting strategic fit, KPIs, and downside protections.
+Additional Information
+Comfortable translating engineering inputs into financial narratives for integrated operators.
+Writing-first approach: concise one-pagers, decision memos, reconciled slides for leadership.
+Other:
+operating model alignment · SDLC familiarity · cloud & enterprise apps exposure.
+ATS Keywords
+Corporate Development; Integrated Energy; Portfolio Strategy; M&A; Joint Ventures; Synergy Analysis; Scenario Planning; Capital Allocation; Valuation; KPI Frameworks; Market Intelligence; Excel; Python; SQL; PowerPoint; Calgary; Hybrid.

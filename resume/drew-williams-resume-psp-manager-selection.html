@@ -1,73 +1,104 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Drew Williams - Resume (PSP External Manager Selection)</title>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Drew Williams — Resume (PSP External Manager Selection)</title>
   <style>
     @page { size: Letter; margin: 0.35in; }
-    html, body { height: auto; }
-    body { margin: 0.35in; font-family: Arial, Helvetica, sans-serif; font-size: 9.2pt; color: #111; line-height: 1.18; }
-    h1 { font-size: 15pt; margin: 0 0 2px 0; }
-    h2 { font-size: 10pt; margin: 6px 0 2px 0; text-transform: uppercase; letter-spacing: 0.2px; }
-    p { margin: 0 0 2px 0; }
-    ul { margin: 0 0 0 14px; padding: 0; }
-    li { margin: 0; }
-    .meta { color: #333; }
-    .row { display: block; margin: 0 0 2px 0; }
-    .strong { font-weight: bold; }
-    .small { font-size: 8.8pt; color: #333; }
-    a, a:visited { color: #111; text-decoration: none; }
+    html, body { height:auto; }
+    body { margin:0.35in; color:#111; font-family: Arial, Helvetica, sans-serif; font-size:9.8pt; line-height:1.25; -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale; }
+    h1 { font-size:18pt; margin:0 0 2px 0; letter-spacing:0.2px; }
+    .sub { color:#444; font-size:9.2pt; margin:0 0 8px 0; }
+    .sub a { color:#444; text-decoration:none; }
+    .rule { border-bottom:1px solid #ddd; margin:8px 0 6px 0; }
+    h2 { font-size:10.6pt; margin:7px 0 3px 0; letter-spacing:0.3px; text-transform:uppercase; color:#222; }
+    .section { margin-bottom:7px; clear: both; }
+    ul { margin:4px 0 0 18px; padding:0; }
+    li { margin:2px 0; }
+    p { margin:0 0 5px 0; }
+    .muted { color:#555; }
+    .small { font-size:9pt; }
+    .row { display:flex; justify-content:space-between; gap:10px; }
+    .row .left { font-weight:bold; }
+    .row .right { color:#555; white-space:nowrap; }
+    .nowrap { white-space:nowrap; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size:9.2pt; }
   </style>
 </head>
 <body>
-  <h1>Drew Williams</h1>
-  <p class="meta">Montréal, QC (relocation-ready) | 403-618-6113 | bdrewwilliams@gmail.com | LinkedIn: https://www.linkedin.com/in/drew-williams-ai-strategy | Portfolio: https://www.itfrombit.ca</p>
 
-  <div class="section">
-    <h2>Professional Summary</h2>
-    <p>Manager research analyst with memo-first diligence habits, strong financial modeling, and a track record of evaluating external strategies. Built qualitative/quantitative scorecards, monitored performance versus benchmarks, and drafted investment committee recommendations for alternative asset mandates. Comfortable engaging with managers, tracking KPIs, and ensuring governance alignment for PSP’s external manager platform.</p>
+  <h1>Drew Williams</h1>
+  <p class="sub">
+    Montréal, QC (relocation-ready) · 403-618-6113 ·
+    <a href="mailto:bdrewwilliams@gmail.com">bdrewwilliams@gmail.com</a> ·
+    <a href="https://www.linkedin.com/in/drew-williams-ai-strategy">linkedin.com/in/drew-williams-ai-strategy</a> ·
+    <a href="https://www.itfrombit.ca">itfrombit.ca</a> ·
+    <a href="https://www.prairiesignal.ca">prairiesignal.ca</a>
+  </p>
+
+  <div class="section" id="education">
+    <h2>Education</h2>
+    <div class="row"><div class="left">Haskayne School of Business, University of Calgary — B.Comm (Finance), with distinction</div><div class="right">Graduated 2025</div></div>
+    <ul>
+      <li><strong>GPA 3.9/4.0 — last 90 units</strong></li>
+      <li>Haskayne Resilience Scholarship</li>
+    </ul>
   </div>
 
-  <div class="section">
-    <h2>Core Competencies</h2>
-    <p>External Manager Due Diligence; Qualitative/Quantitative Evaluation; Performance Monitoring; Benchmark Analysis; Risk Assessment; Investment Committee Memos; Relationship Management; Excel/Python Modeling; Data Room Analysis; AI-Assisted Research; Stakeholder Communication.</p>
+  <div class="section" id="summary">
+    <h2>Professional Summary</h2>
+    <p>Manager research analyst with memo-first diligence habits, quantitative toolset, and experience evaluating external strategies. Built qualitative and quantitative scorecards, monitored performance versus benchmarks, and drafted IC recommendations for alternative mandates. Led a compliance/ops integration that reduced vendor spend by <strong>$120K annually</strong> while strengthening governance. Comfortable engaging with managers, tracking KPIs, and aligning documentation with PSP’s external manager platform. <span class="muted">— Targeting <strong>Analyst/Senior Analyst, External Manager Selection &amp; Monitoring</strong> at <strong>PSP Investments</strong>.</span></p>
+  </div>
+
+  <div class="section" id="skills">
+    <h2>Core Skills &amp; Tools</h2>
+    <ul>
+      <li><strong>Diligence &amp; Monitoring:</strong> qualitative/quantitative scoring, reference checks, guideline compliance tracking.</li>
+      <li><strong>Performance Analytics:</strong> benchmark construction, factor analysis, downside scenario modelling, variance narratives.</li>
+      <li><strong>Data &amp; Automation:</strong> Excel (advanced), Python, SQL; dashboards and alerts for ongoing oversight.</li>
+      <li><strong>Governance &amp; Documentation:</strong> memo-first storytelling, IC-ready materials, relationship tracking.</li>
+      <li><strong>Stakeholder Skills:</strong> manager engagement, follow-up cadence, cross-functional coordination (legal, ops, risk).</li>
+    </ul>
   </div>
 
   <div class="section" id="experience">
     <h2>Experience</h2>
 
-    <div class="row"><span class="strong">Independent Builder — AI & Financial Analytics</span> · <span class="meta">Calgary, AB | 2023–Present</span></div>
+    <div class="row"><div class="left">Independent Builder — AI &amp; Financial Software</div><div class="right">Calgary, AB · 2023–Present</div></div>
+    <p class="small mono">itfrombit.ca · prairiesignal.ca</p>
     <ul>
-      <li>Developed manager evaluation framework combining qualitative scoring, factor exposures, and downside analysis; produced recommendation memos for asset owners.</li>
+      <li>Developed manager evaluation frameworks combining qualitative scoring, factor exposures, and downside analysis; produced recommendation memos for asset owners.</li>
       <li>Implemented Python/SQL tools to monitor performance, risk, and guideline compliance; automated dashboards for ongoing oversight.</li>
       <li>Coached clients on diligence processes, meeting agendas, and documentation standards for external manager reviews.</li>
     </ul>
 
-    <div class="row"><span class="strong">Rosen Capital Advisors — Financial Analyst</span> · <span class="meta">Los Angeles, CA | 2016–2020</span></div>
+    <div class="row"><div class="left">Rosen Capital Advisors — Financial Analyst</div><div class="right">Los Angeles, CA · 2016–2020</div></div>
     <ul>
-      <li>Assessed external funds and co-investments; synthesized track records, strategy fit, and operational diligence into investment committee packages.</li>
+      <li>Assessed external funds and co-investments; synthesized track records, strategy fit, and operational diligence into IC packages.</li>
       <li>Maintained performance dashboards, monitor lists, and periodic review cadence for manager relationships.</li>
-      <li>Led compliance/ops integration reducing vendor spend by $120K/year and reinforcing data governance for third-party providers.</li>
+      <li>Led compliance/operations integration reducing vendor spend by <strong>$120K/year</strong> and reinforcing data governance for third-party providers.</li>
     </ul>
 
-    <div class="row"><span class="strong">Private Equity (Summer Analyst) — Olson Cross & Alamo</span> · <span class="meta">New York, NY | 2015</span></div>
+    <div class="row"><div class="left">Private Equity (Summer Analyst) — Olson Cross &amp; Alamo</div><div class="right">New York, NY · 2015</div></div>
     <ul>
       <li>Prepared diligence memos covering fund managers, strategy updates, and risk considerations for $350M–$3.5B allocations.</li>
     </ul>
   </div>
 
-  <div class="section" id="education">
-    <h2>Education</h2>
-    <div class="row"><span class="strong">Haskayne School of Business, University of Calgary</span> · <span class="meta">B.Comm, Finance (Distinction) | Graduated 2025</span></div>
+  <div class="section" id="additional">
+    <h2>Additional Information</h2>
     <ul>
-      <li>GPA: 3.9/4.0 (last 90 units) · Haskayne Resilience Scholarship</li>
+      <li>Experienced running meeting cadences, reference calls, and follow-ups to keep manager files current.</li>
+      <li>Writing-first approach: concise diligence notes, decision memos, tracked action items.</li>
+      <li><strong>Other:</strong> operating model alignment · SDLC familiarity · cloud &amp; enterprise apps exposure.</li>
     </ul>
   </div>
 
-  <div class="section" id="skills-keywords">
-    <h2>Skills & Keywords (ATS — PSP External Manager Selection)</h2>
-    <p class="small">External Manager Selection; Monitoring; Due Diligence; Performance Analysis; Benchmarks; Risk Management; Investment Committee; Qualitative Assessment; Quantitative Scoring; Excel; Python; SQL; Memos; Relationship Management; Montréal; Hybrid.</p>
+  <div class="section" id="keywords">
+    <h2>ATS Keywords</h2>
+    <p class="small mono">External Manager Selection; Monitoring; Due Diligence; Performance Analysis; Benchmarks; Risk Management; Investment Committee; Qualitative Assessment; Quantitative Scoring; Excel; Python; SQL; Memos; Relationship Management; Montréal; Hybrid.</p>
   </div>
+
 </body>
 </html>

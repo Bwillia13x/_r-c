@@ -1,73 +1,104 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Drew Williams - Resume (Deloitte TS&T)</title>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Drew Williams — Resume (Deloitte TS&T)</title>
   <style>
-    @page { size: Letter; margin: 0.3in; }
-    html, body { height: auto; }
-    body { margin: 0.3in; font-family: Arial, Helvetica, sans-serif; font-size: 9pt; color: #111; line-height: 1.16; }
-    h1 { font-size: 14.5pt; margin: 0 0 2px 0; }
-    h2 { font-size: 9.8pt; margin: 5px 0 2px 0; text-transform: uppercase; letter-spacing: 0.2px; }
-    p { margin: 0 0 2px 0; }
-    ul { margin: 0 0 0 14px; padding: 0; }
-    li { margin: 0; }
-    .meta { color: #333; }
-    .row { display: block; margin: 0 0 2px 0; }
-    .strong { font-weight: bold; }
-    .small { font-size: 8.6pt; color: #333; }
-    a, a:visited { color: #111; text-decoration: none; }
+    @page { size: Letter; margin: 0.35in; }
+    html, body { height:auto; }
+    body { margin:0.35in; color:#111; font-family: Arial, Helvetica, sans-serif; font-size:9.8pt; line-height:1.25; -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale; }
+    h1 { font-size:18pt; margin:0 0 2px 0; letter-spacing:0.2px; }
+    .sub { color:#444; font-size:9.2pt; margin:0 0 8px 0; }
+    .sub a { color:#444; text-decoration:none; }
+    .rule { border-bottom:1px solid #ddd; margin:8px 0 6px 0; }
+    h2 { font-size:10.6pt; margin:7px 0 3px 0; letter-spacing:0.3px; text-transform:uppercase; color:#222; }
+    .section { margin-bottom:7px; clear: both; }
+    ul { margin:4px 0 0 18px; padding:0; }
+    li { margin:2px 0; }
+    p { margin:0 0 5px 0; }
+    .muted { color:#555; }
+    .small { font-size:9pt; }
+    .row { display:flex; justify-content:space-between; gap:10px; }
+    .row .left { font-weight:bold; }
+    .row .right { color:#555; white-space:nowrap; }
+    .nowrap { white-space:nowrap; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size:9.2pt; }
   </style>
 </head>
 <body>
-  <h1>Drew Williams</h1>
-  <p class="meta">Toronto, ON (relocation-ready) | 403-618-6113 | bdrewwilliams@gmail.com | LinkedIn: https://www.linkedin.com/in/drew-williams-ai-strategy | Portfolio: https://www.itfrombit.ca</p>
 
-  <div class="section">
-    <h2>Professional Summary</h2>
-    <p>Early-career consultant/analyst focused on technology strategy, operating models, and AI-enabled problem solving. Experienced translating ambiguous business needs into requirements, roadmaps, and executive-ready outputs. Built analytics tooling (Python/SQL dashboards, valuation engines) and guided stakeholders through change. Led compliance/ops integration delivering $120K annual savings and faster reporting cadence. Thrive in fast-paced, collaborative environments.</p>
+  <h1>Drew Williams</h1>
+  <p class="sub">
+    Toronto, ON (relocation-ready) · 403-618-6113 ·
+    <a href="mailto:bdrewwilliams@gmail.com">bdrewwilliams@gmail.com</a> ·
+    <a href="https://www.linkedin.com/in/drew-williams-ai-strategy">linkedin.com/in/drew-williams-ai-strategy</a> ·
+    <a href="https://www.itfrombit.ca">itfrombit.ca</a> ·
+    <a href="https://www.prairiesignal.ca">prairiesignal.ca</a>
+  </p>
+
+  <div class="section" id="education">
+    <h2>Education</h2>
+    <div class="row"><div class="left">Haskayne School of Business, University of Calgary — B.Comm (Finance), with distinction</div><div class="right">Graduated 2025</div></div>
+    <ul>
+      <li><strong>GPA 3.9/4.0 — last 90 units</strong></li>
+      <li>Haskayne Resilience Scholarship</li>
+    </ul>
   </div>
 
-  <div class="section">
-    <h2>Core Competencies</h2>
-    <p>Technology Strategy; Business–IT Alignment; Operating Model (product/platform, governance); Requirements Elicitation & Validation; Roadmapping; Portfolio & Initiative Triage; SDLC Awareness; Agile Fundamentals; Problem Structuring & Root Cause Analysis; Business Cases & KPI Frameworks; Financial Modeling (DCF, IRR, EPV); Data Analysis; Dashboard Prototyping; AI-Assisted Workflows; Change Management.</p>
+  <div class="section" id="summary">
+    <h2>Professional Summary</h2>
+    <p>Early-career consultant/analyst focused on technology strategy, operating models, and AI-enabled problem solving. Translating ambiguous business needs into requirements, roadmaps, and executive-ready outputs. Built analytics tooling (Python/SQL dashboards, valuation engines) and guided stakeholders through change. Led a compliance/ops integration delivering <strong>$120K annual savings</strong> and faster reporting cadence. Thrive in fast-paced, collaborative environments. <span class="muted">— Targeting <strong>Analyst/Consultant, Technology, Strategy &amp; Transformation</strong> at <strong>Deloitte</strong>.</span></p>
+  </div>
+
+  <div class="section" id="skills">
+    <h2>Core Skills &amp; Tools</h2>
+    <ul>
+      <li><strong>Technology Strategy:</strong> business–IT alignment, roadmap design, operating model (product/platform, governance).</li>
+      <li><strong>Analysis &amp; Modeling:</strong> business cases, KPI frameworks, DCF/IRR/EPV, scenario analysis, valuation tooling.</li>
+      <li><strong>Data &amp; AI:</strong> Python, SQL, dashboard prototypes, AI-assisted workflows, documentation for reuse.</li>
+      <li><strong>Delivery &amp; Change:</strong> requirements elicitation, agile fundamentals, change management, executive storytelling.</li>
+      <li><strong>Stakeholder Skills:</strong> cross-functional coordination, workshop facilitation, structured problem solving.</li>
+    </ul>
   </div>
 
   <div class="section" id="experience">
     <h2>Experience</h2>
 
-    <div class="row"><span class="strong">Independent Builder — AI & Financial Analytics</span> · <span class="meta">Calgary, AB | 2023–Present</span></div>
+    <div class="row"><div class="left">Independent Builder — AI &amp; Financial Software</div><div class="right">Calgary, AB · 2023–Present</div></div>
+    <p class="small mono">itfrombit.ca · prairiesignal.ca</p>
     <ul>
       <li>Partner with clients to map processes, surface requirements, and produce technology strategy playbooks with phased roadmaps and governance models.</li>
       <li>Develop analytics tooling (Python/SQL) with scenario toggles and documentation; enable reuse and transfer to client teams.</li>
       <li>Deliver executive-ready packs and change management guides aligning technology initiatives with business outcomes.</li>
     </ul>
 
-    <div class="row"><span class="strong">Rosen Capital Advisors — Financial Analyst</span> · <span class="meta">Los Angeles, CA | 2016–2020</span></div>
+    <div class="row"><div class="left">Rosen Capital Advisors — Financial Analyst</div><div class="right">Los Angeles, CA · 2016–2020</div></div>
     <ul>
-      <li>Led compliance/ops platform integration; aligned stakeholders, defined requirements, and rolled out processes resulting in $120K annual savings.</li>
+      <li>Led compliance/ops platform integration; aligned stakeholders, defined requirements, and rolled out processes resulting in <strong>$120K/year</strong> savings.</li>
       <li>Built analytics dashboards supporting risk and operations; translated data into recommendations for partners and executive committees.</li>
       <li>Prepared strategic planning materials, operating model updates, and scenario analyses to guide investment decisions.</li>
     </ul>
 
-    <div class="row"><span class="strong">Private Equity (Summer Analyst) — Olson Cross & Alamo</span> · <span class="meta">New York, NY | 2015</span></div>
+    <div class="row"><div class="left">Private Equity (Summer Analyst) — Olson Cross &amp; Alamo</div><div class="right">New York, NY · 2015</div></div>
     <ul>
       <li>Authored investment memoranda and operating model assessments for $350M–$3.5B deals; coordinated cross-functional diligence teams.</li>
     </ul>
   </div>
 
-  <div class="section" id="education">
-    <h2>Education</h2>
-    <div class="row"><span class="strong">Haskayne School of Business, University of Calgary</span> · <span class="meta">B.Comm, Finance (Distinction) | Graduated 2025</span></div>
+  <div class="section" id="additional">
+    <h2>Additional Information</h2>
     <ul>
-      <li>GPA: 3.9/4.0 (last 90 units) · Haskayne Resilience Scholarship</li>
+      <li>Comfortable with SDLC fundamentals, agile rituals, and collaborating alongside product/engineering teams.</li>
+      <li>Writing-first approach: concise briefs, playbooks, and retrospectives.</li>
+      <li><strong>Other:</strong> operating model alignment · cloud &amp; enterprise apps familiarity.</li>
     </ul>
   </div>
 
-  <div class="section" id="skills-keywords">
-    <h2>Skills & Keywords (ATS — Deloitte TS&T)</h2>
-    <p class="small">Technology Strategy; Transformation; Operating Model; Business–IT Alignment; Roadmap; Governance; Portfolio Management; SDLC; Agile; Change Management; Requirements; KPI; DCF; IRR; Python; SQL; Excel; AI Tools; Stakeholder Management; Toronto; Hybrid.</p>
+  <div class="section" id="keywords">
+    <h2>ATS Keywords</h2>
+    <p class="small mono">Technology Strategy; Transformation; Operating Model; Business–IT Alignment; Roadmap; Governance; Portfolio Management; SDLC; Agile; Change Management; Requirements; KPI; DCF; IRR; Python; SQL; Excel; AI Tools; Stakeholder Management; Toronto; Hybrid.</p>
   </div>
+
 </body>
 </html>

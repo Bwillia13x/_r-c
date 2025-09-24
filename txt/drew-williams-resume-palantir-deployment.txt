@@ -1,31 +1,58 @@
-Drew Williams - Resume (Palantir Deployment Strategist)
 Drew Williams
-Ottawa, ON (relocation-ready) | 403-618-6113 | bdrewwilliams@gmail.com | LinkedIn: https://www.linkedin.com/in/drew-williams-ai-strategy | Portfolio: https://www.itfrombit.ca
-Professional Summary
-Deployment strategist focused on blending analytics, workflow design, and stakeholder enablement. Built AI-driven decision systems, translated ambiguous requirements into product configurations, and drove adoption across finance, operations, and compliance teams. Thrive in fast-paced environments where storytelling, rapid iteration, and rigorous documentation are critical to implementation success.
-Core Competencies
-Client Discovery & Requirements; Workflow Design; Analytics & Dashboarding; Change Management; Stakeholder Enablement; Documentation & Training; Python/SQL; Data Modeling; AI Systems Integration; Executive Storytelling; Agile Delivery; Rapid Iteration.
-Experience
-Independent Builder — AI & Financial Analytics
+Ottawa, ON (relocation-ready) · 403-618-6113 ·
+bdrewwilliams@gmail.com
 ·
-Calgary, AB | 2023–Present
-Engaged with clients to map current workflows, identify pain points, and design analytics/automation solutions leveraging Python, SQL, and no-code tools.
-Implemented AI-driven reporting systems with audit trails, scenario toggles, and clear documentation; accelerated adoption across finance and operations teams.
+linkedin.com/in/drew-williams-ai-strategy
+·
+itfrombit.ca
+·
+prairiesignal.ca
+Education
+Haskayne School of Business, University of Calgary — B.Comm (Finance), with distinction
+Graduated 2025
+GPA 3.9/4.0 — last 90 units
+Haskayne Resilience Scholarship
+Professional Summary
+Deployment strategist blending analytics, workflow design, and stakeholder enablement. Built AI-driven decision systems, translated ambiguous requirements into product configurations, and drove adoption across finance, operations, and compliance teams. Led a compliance/ops integration that reduced vendor spend by
+$120K annually
+while accelerating delivery. Thrive in fast-paced environments where storytelling, iteration, and rigorous documentation ensure implementation success.
+— Targeting
+Deployment Strategist
+at
+Palantir
+.
+Core Skills & Tools
+Client Discovery:
+problem framing, requirements gathering, workshop facilitation, roadmap creation.
+Workflow Design & Analytics:
+Python, SQL, data modeling, dashboard creation, reproducible pipelines.
+Change Management:
+training, knowledge bases, playbooks, stakeholder alignment.
+AI & Automation:
+generative AI prompt design, automation scripts, audit trails, documentation discipline.
+Delivery:
+agile iteration, cross-functional coordination, executive storytelling.
+Experience
+Independent Builder — AI & Financial Software
+Calgary, AB · 2023–Present
+itfrombit.ca · prairiesignal.ca
+Mapped client workflows, surfaced pain points, and co-designed analytics/automation solutions leveraging Python, SQL, and no-code tools.
+Implemented AI-driven reporting systems with audit trails, scenario toggles, and documentation; accelerated adoption across finance and operations teams.
 Delivered training, knowledge bases, and playbooks to ensure change readiness and ongoing support.
 Rosen Capital Advisors — Financial Analyst
-·
-Los Angeles, CA | 2016–2020
-Led deployment of compliance/ops integration platform; aligned requirements across legal, IT, and operations; achieved $120K annual savings and faster cycle time.
+Los Angeles, CA · 2016–2020
+Led deployment of compliance/ops integration platform; aligned requirements across legal, IT, and operations; achieved
+$120K/year
+vendor savings and faster cycle times.
 Built analytics dashboards and decision frameworks supporting risk/compliance stakeholders; documented workflows and trained users.
-Coordinated cross-functional execution, ensuring communication, feedback loops, and iterative improvements.
+Coordinated cross-functional execution with transparent communication and iterative improvements.
 Private Equity (Summer Analyst) — Olson Cross & Alamo
-·
-New York, NY | 2015
-Produced diligence workflows and knowledge repositories for $350M–$3.5B implementations; partnered with ops teams to embed processes.
-Education
-Haskayne School of Business, University of Calgary
-·
-B.Comm, Finance (Distinction) | Graduated 2025
-GPA: 3.9/4.0 (last 90 units) · Haskayne Resilience Scholarship
-Skills & Keywords (ATS — Palantir Deployment Strategist)
+New York, NY · 2015
+Produced diligence workflows and knowledge repositories for $350M–$3.5B implementations; partnered with operating teams to embed processes.
+Additional Information
+Comfortable working alongside engineers and operators to translate technical requirements into product configurations.
+Writing-first approach: concise briefs, SOPs, and post-launch retrospectives.
+Other:
+operating model alignment · SDLC familiarity · cloud & enterprise apps exposure.
+ATS Keywords
 Deployment; Strategy; Analytics; Workflow Design; Change Management; Stakeholder Management; Python; SQL; AI Systems; Product Configuration; Documentation; Training; Ottawa; Hybrid.
