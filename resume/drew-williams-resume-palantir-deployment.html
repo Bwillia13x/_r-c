@@ -1,104 +1,103 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Drew Williams — Resume (Palantir Deployment Strategist)</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Drew Williams - Resume (ATS - Palantir Deployment Strategist)</title>
   <style>
-    @page { size: Letter; margin: 0.35in; }
-    html, body { height:auto; }
-    body { margin:0.35in; color:#111; font-family: Arial, Helvetica, sans-serif; font-size:9.8pt; line-height:1.25; -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale; }
-    h1 { font-size:18pt; margin:0 0 2px 0; letter-spacing:0.2px; }
-    .sub { color:#444; font-size:9.2pt; margin:0 0 8px 0; }
-    .sub a { color:#444; text-decoration:none; }
-    .rule { border-bottom:1px solid #ddd; margin:8px 0 6px 0; }
-    h2 { font-size:10.6pt; margin:7px 0 3px 0; letter-spacing:0.3px; text-transform:uppercase; color:#222; }
-    .section { margin-bottom:7px; clear: both; }
-    ul { margin:4px 0 0 18px; padding:0; }
-    li { margin:2px 0; }
-    p { margin:0 0 5px 0; }
-    .muted { color:#555; }
-    .small { font-size:9pt; }
-    .row { display:flex; justify-content:space-between; gap:10px; }
-    .row .left { font-weight:bold; }
-    .row .right { color:#555; white-space:nowrap; }
-    .nowrap { white-space:nowrap; }
-    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size:9.2pt; }
+    /* Ultra-tight, single-page, ATS-oriented */
+    @page { size: Letter; margin: 0.25in; }
+    html, body { height: auto; }
+    body { margin: 0.25in auto; max-width: 7.85in; font-family: Arial, Helvetica, sans-serif; font-size: 9.25pt; color: #111; line-height: 1.19; }
+
+    h1 { font-size: 15pt; margin: 0 0 3px 0; }
+    h2 { font-size: 10.2pt; margin: 6px 0 3px 0; text-transform: uppercase; letter-spacing: 0.25px; }
+    p { margin: 0 0 2.1px 0; }
+    ul { margin: 2px 0 0 14px; padding: 0; }
+    li { margin: 1.1px 0; }
+
+    .section { margin-bottom: 6px; }
+    .section:last-of-type { margin-bottom: 0; }
+    .meta { color: #333; }
+    .row { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; margin: 0 0 1.5px 0; }
+    .row .meta { white-space: nowrap; }
+    .strong { font-weight: bold; }
+    .small { font-size: 8.6pt; color: #333; }
+    a, a:visited { color: #111; text-decoration: none; }
+
+    .dash-list { margin: 1px 0 2px 0; }
+    .dash-list p { margin: 0 0 1.4px 0; }
+    .dash-list .small { margin: 0 0 1.2px 0; }
+
+    .reference p { margin-bottom: 1px; }
+
+    /* Avoid page-break within headings */
+    h1, h2 { page-break-inside: avoid; }
   </style>
 </head>
 <body>
-
   <h1>Drew Williams</h1>
-  <p class="sub">
-    Ottawa, ON (relocation-ready) · 403-618-6113 ·
-    <a href="mailto:bdrewwilliams@gmail.com">bdrewwilliams@gmail.com</a> ·
-    <a href="https://www.linkedin.com/in/drew-williams-ai-strategy">linkedin.com/in/drew-williams-ai-strategy</a> ·
-    <a href="https://www.itfrombit.ca">itfrombit.ca</a> ·
-    <a href="https://www.prairiesignal.ca">prairiesignal.ca</a>
-  </p>
+  <p class="meta">Calgary, AB (Open to NYC/DC relocation; 25-75% travel), 403-618-6113, Bwillia@ucalgary.ca, LinkedIn: https://www.linkedin.com/in/drew-williams-ai-strategy, Portfolio: https://www.itfrombit.ca, Consultancy: https://www.prairiesignal.ca</p>
 
-  <div class="section" id="education">
+  <div class="section">
     <h2>Education</h2>
-    <div class="row"><div class="left">Haskayne School of Business, University of Calgary — B.Comm (Finance), with distinction</div><div class="right">Graduated 2025</div></div>
-    <ul>
-      <li><strong>GPA 3.9/4.0 — last 90 units</strong></li>
-      <li>Haskayne Resilience Scholarship</li>
-    </ul>
+    <div class="row"><span class="strong">Haskayne School of Business, University of Calgary</span><span class="meta">B.Comm, Finance (Distinction), Graduated 2025</span></div>
+    <div class="dash-list">
+      <p>- GPA: 3.9/4.0; Haskayne Resilience Scholarship.</p>
+    </div>
   </div>
 
-  <div class="section" id="summary">
+  <div class="section">
     <h2>Professional Summary</h2>
-    <p>Deployment strategist blending analytics, workflow design, and stakeholder enablement. Built AI-driven decision systems, translated ambiguous requirements into product configurations, and drove adoption across finance, operations, and compliance teams. Led a compliance/ops integration that reduced vendor spend by <strong>$120K annually</strong> while accelerating delivery. Thrive in fast-paced environments where storytelling, iteration, and rigorous documentation ensure implementation success. <span class="muted">— Targeting <strong>Deployment Strategist</strong> at <strong>Palantir</strong>.</span></p>
+    <p>Deployment strategist with hands-on experience identifying client problems, designing data-driven workflows and driving solution adoption. I embed with teams to shadow analysts, map workflows and translate ambiguous requirements into actionable solutions using data analysis and visualization. Led a compliance and operations platform integration delivering $120K annual vendor savings while improving cross-functional collaboration across Legal, IT and Operations. Strong programming skills (Python, SQL) for data wrangling and analysis; comfortable presenting results to stakeholders from analysts to executives. Mission-driven and adaptable to fast-paced, travel-intensive environments.</p>
   </div>
 
-  <div class="section" id="skills">
-    <h2>Core Skills &amp; Tools</h2>
-    <ul>
-      <li><strong>Client Discovery:</strong> problem framing, requirements gathering, workshop facilitation, roadmap creation.</li>
-      <li><strong>Workflow Design &amp; Analytics:</strong> Python, SQL, data modeling, dashboard creation, reproducible pipelines.</li>
-      <li><strong>Change Management:</strong> training, knowledge bases, playbooks, stakeholder alignment.</li>
-      <li><strong>AI &amp; Automation:</strong> generative AI prompt design, automation scripts, audit trails, documentation discipline.</li>
-      <li><strong>Delivery:</strong> agile iteration, cross-functional coordination, executive storytelling.</li>
-    </ul>
+  <div class="section">
+    <h2>Core Competencies</h2>
+    <p>Problem Identification & Scoping; Data Analysis (Python, R, SQL, MATLAB); Workflow Design & Optimization; Stakeholder Engagement (Analysts to C-suite); Solution Implementation & Training; Change Management; Data Visualization; Cross-functional Collaboration; Programming & Scripting; Problem-solving; Communication; Travel (25-75%).</p>
   </div>
 
   <div class="section" id="experience">
     <h2>Experience</h2>
 
-    <div class="row"><div class="left">Independent Builder — AI &amp; Financial Software</div><div class="right">Calgary, AB · 2023–Present</div></div>
-    <p class="small mono">itfrombit.ca · prairiesignal.ca</p>
-    <ul>
-      <li>Mapped client workflows, surfaced pain points, and co-designed analytics/automation solutions leveraging Python, SQL, and no-code tools.</li>
-      <li>Implemented AI-driven reporting systems with audit trails, scenario toggles, and documentation; accelerated adoption across finance and operations teams.</li>
-      <li>Delivered training, knowledge bases, and playbooks to ensure change readiness and ongoing support.</li>
-    </ul>
+    <div class="row"><span class="strong">PrairieSignal - Independent Consultant (AI & Reporting Automation)</span><span class="meta">Calgary, AB, 2025 - Present</span></div>
+    <div class="dash-list">
+      <p>- Embed with client teams to identify operational problems through workflow mapping and stakeholder interviews; translate requirements into data-driven solutions.</p>
+      <p>- Design and implement custom workflows using Python and SQL to solve real-world challenges including reporting automation, data validation and KPI dashboarding.</p>
+      <p>- Lead user training sessions and ensure solution adoption; adjust tools to fit user needs based on field feedback.</p>
+      <p>- Present analysis and recommendations to stakeholders ranging from front-line analysts to business leaders.</p>
+      <p class="small">- PrairieSignal focus: Customer/Staff AI helper; Order lookup; Weekly reports & invoicing; Simple KPI dashboards; Data & security practices; Works with existing ERPs/CRMs.</p>
+    </div>
 
-    <div class="row"><div class="left">Rosen Capital Advisors — Financial Analyst</div><div class="right">Los Angeles, CA · 2016–2020</div></div>
-    <ul>
-      <li>Led deployment of compliance/ops integration platform; aligned requirements across legal, IT, and operations; achieved <strong>$120K/year</strong> vendor savings and faster cycle times.</li>
-      <li>Built analytics dashboards and decision frameworks supporting risk/compliance stakeholders; documented workflows and trained users.</li>
-      <li>Coordinated cross-functional execution with transparent communication and iterative improvements.</li>
-    </ul>
+    <div class="row"><span class="strong">Rosen Capital Advisors - Financial Analyst</span><span class="meta">Los Angeles, CA, 2016 - 2020</span></div>
+    <div class="dash-list">
+      <p>- Identified operational inefficiency in compliance and operations platforms; proposed solution and led integration delivering <span class="strong">$120K/year</span> vendor savings.</p>
+      <p>- Collaborated with cross-functional teams (Legal, IT, Operations) to structure the problem, gather requirements and drive implementation.</p>
+      <p>- Built dashboards (Excel/Python) and management reports supporting risk, operations, and portfolio reviews; trained users on new tools and workflows.</p>
+      <p>- Co-authored quarterly and annual investor letters with the PM; produced presentations for diverse stakeholder audiences.</p>
+    </div>
 
-    <div class="row"><div class="left">Private Equity (Summer Analyst) — Olson Cross &amp; Alamo</div><div class="right">New York, NY · 2015</div></div>
-    <ul>
-      <li>Produced diligence workflows and knowledge repositories for $350M–$3.5B implementations; partnered with operating teams to embed processes.</li>
-    </ul>
+    <div class="row"><span class="strong">Private Equity (Summer Analyst) - Olson Cross & Alamo</span><span class="meta">New York, NY, 2015</span></div>
+    <div class="dash-list">
+      <p>- Analyzed disparate data sources from data rooms to identify patterns and insights informing $350M-$3.5B investment decisions.</p>
+      <p>- Built financial models and drafted investment memoranda; presented findings to senior stakeholders under tight deadlines.</p>
+      <p>- Collaborated with external advisors and management teams to assess investment opportunities.</p>
+    </div>
   </div>
 
-  <div class="section" id="additional">
-    <h2>Additional Information</h2>
-    <ul>
-      <li>Comfortable working alongside engineers and operators to translate technical requirements into product configurations.</li>
-      <li>Writing-first approach: concise briefs, SOPs, and post-launch retrospectives.</li>
-      <li><strong>Other:</strong> operating model alignment · SDLC familiarity · cloud &amp; enterprise apps exposure.</li>
-    </ul>
+  <div class="section" id="selected-skills">
+    <h2>Selected Skills</h2>
+    <p>Python (pandas, automation); SQL (queries, large datasets); R; MATLAB; Excel (advanced); PowerPoint; Data Analysis; Data Visualization; Workflow Design; Problem-solving; Stakeholder Communication; Training & User Adoption.</p>
+    <p class="small">Deployment Strategy; Problem Identification; Data Analysis; Python; SQL; Programming; Workflow Design; Change Management; Stakeholder Engagement; Training; Travel (25-75%); NYC/DC; US Person Status.</p>
   </div>
 
-  <div class="section" id="keywords">
-    <h2>ATS Keywords</h2>
-    <p class="small mono">Deployment; Strategy; Analytics; Workflow Design; Change Management; Stakeholder Management; Python; SQL; AI Systems; Product Configuration; Documentation; Training; Ottawa; Hybrid.</p>
+  <div class="section reference">
+    <h2>Professional Reference</h2>
+    <p class="small">Dr. Kanwal Bokhari (she/her)</p>
+    <p class="small">Assistant Professor (Teaching), Finance, Parex Innovation Fellow</p>
+    <p class="small">Supervisor, MBA Students - CDL-Rockies Program</p>
+    <p class="small">Haskayne School of Business, University of Calgary</p>
+    <p class="small">W 1-403-210-7121 | E kanwal.bokhari@ucalgary.ca</p>
   </div>
-
 </body>
 </html>
