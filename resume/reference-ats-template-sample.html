@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Resume — ATS Template Sample</title>
+    <style>
+      @page { size: Letter; margin: 0.35in; }
+      html, body { height:auto; }
+      body {
+        margin:0.35in;
+        color:#111;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size:9.5pt;
+        line-height:1.25;
+        -webkit-font-smoothing:antialiased;
+        -moz-osx-font-smoothing:grayscale;
+      }
+      h1 { font-size:18pt; margin:0 0 2px 0; letter-spacing:0.2px; }
+      .sub { color:#444; font-size:9pt; margin:0 0 8px 0; }
+      .sub a { color:#444; text-decoration:none; }
+      h2 { font-size:10.2pt; margin:7px 0 3px 0; letter-spacing:0.3px; text-transform:uppercase; color:#222; }
+      .section { margin-bottom:8px; clear: both; }
+      .section + .section { padding-top:6px; border-top:1px solid #ddd; }
+      ul { margin:4px 0 0 18px; padding:0; }
+      li { margin:2px 0; }
+      p { margin:0 0 5px 0; }
+      .muted { color:#555; }
+      .row { display:flex; justify-content:space-between; gap:10px; }
+      .row .left { font-weight:bold; }
+      .row .right { color:#555; white-space:nowrap; }
+      .quick-nav { font-size:9pt; color:#555; margin:6px 0 6px 0; border-bottom:1px solid #ddd; padding-bottom:4px; }
+      .quick-nav a { color:#555; text-decoration:none; margin-right:10px; }
+      .quick-nav a:hover { text-decoration:underline; }
+      .tag-list { margin:0; padding:0; list-style:none; display:flex; flex-wrap:wrap; gap:6px 10px; }
+      .tag-list li { margin:0; font-size:9pt; color:#333; border:1px solid #ccc; border-radius:4px; padding:2px 6px; }
+    </style>
+  </head>
+  <body>
+
+    <h1>Drew Williams</h1>
+    <p class="sub">
+      Toronto, ON · Open to relocation · <a href="mailto:bdrewwilliams@gmail.com">bdrewwilliams@gmail.com</a> ·
+      <a href="tel:+14036186113">+1 (403) 618-6113</a> ·
+      <a href="https://linkedin.com/in/drew-williams-ai-strategy">linkedin.com/in/drew-williams-ai-strategy</a> ·
+      <a href="https://itfrombit.ca">itfrombit.ca</a> ·
+      <a href="https://prairiesignal.ca">prairiesignal.ca</a>
+    </p>
+    <div class="quick-nav">
+      <a href="#summary">Summary</a>
+      <a href="#skills">Skills</a>
+      <a href="#experience">Experience</a>
+      <a href="#projects">Projects</a>
+      <a href="#education">Education</a>
+    </div>
+
+    <div class="section" id="summary">
+      <h2>Professional Summary</h2>
+      <ul>
+        <li>Software engineer with 6+ years building reliable web platforms and APIs across B2B SaaS.</li>
+        <li>Lead cross-functional delivery, optimize performance, and ship features adopted by millions of users.</li>
+        <li>Deep experience with React, TypeScript, Node, and AWS; mentor teams and raise engineering standards.</li>
+      </ul>
+    </div>
+
+    <div class="section" id="skills">
+      <h2>Core Skills &amp; Tools</h2>
+      <ul class="tag-list">
+        <li>JavaScript / TypeScript</li>
+        <li>React</li>
+        <li>Node.js</li>
+        <li>Express</li>
+        <li>Next.js</li>
+        <li>REST / GraphQL</li>
+        <li>PostgreSQL</li>
+        <li>MongoDB</li>
+        <li>Docker</li>
+        <li>AWS</li>
+        <li>CI/CD</li>
+        <li>Testing (Jest, Playwright)</li>
+        <li>Agile / Scrum</li>
+      </ul>
+    </div>
+
+    <div class="section" id="experience">
+      <h2>Experience</h2>
+
+      <div class="row">
+        <div class="left">Senior Software Engineer — Acme Corp</div>
+        <div class="right">San Francisco, CA · 2021–Present</div>
+      </div>
+      <ul>
+        <li>Led development of a customer analytics platform (React/Node/AWS) serving 2M+ monthly users, improving page load by 38%.</li>
+        <li>Designed and rolled out CI/CD pipelines with GitHub Actions, cutting deployment time by 70% and defects by 25%.</li>
+        <li>Mentored four engineers and introduced testing standards that lifted automated coverage from 45% to 82%.</li>
+      </ul>
+
+      <div class="row">
+        <div class="left">Software Engineer — Beta Labs</div>
+        <div class="right">Remote · 2018–2021</div>
+      </div>
+      <ul>
+        <li>Built Node.js/Express services with PostgreSQL, reducing average API latency from 220ms to 95ms.</li>
+        <li>Implemented role-based access controls and audit logging that supported SOC 2 Type II certification.</li>
+        <li>Collaborated with product and design to deliver 20+ features, driving a 14% increase in user retention.</li>
+      </ul>
+    </div>
+
+    <div class="section" id="projects">
+      <h2>Projects</h2>
+
+      <div class="row">
+        <div class="left">PerfDash — Real-time web performance dashboard</div>
+        <div class="right">React · Next.js · Node · ClickHouse</div>
+      </div>
+      <ul>
+        <li>Aggregates Core Web Vitals across properties; ingests 100k+ events per minute with sub-second query response.</li>
+      </ul>
+
+      <div class="row">
+        <div class="left">Infra Toolkit — Developer productivity CLI</div>
+        <div class="right">TypeScript · oclif · Docker</div>
+      </div>
+      <ul>
+        <li>Standardized local setup and service scaffolding, cutting new service spin-up time from hours to ~10 minutes.</li>
+      </ul>
+    </div>
+
+    <div class="section" id="education">
+      <h2>Education</h2>
+      <div class="row"><div class="left">B.S. Computer Science — State University</div><div class="right">2014–2018</div></div>
+      <ul>
+        <li>Honors graduate; GPA 3.7/4.0.</li>
+        <li>Relevant coursework: Algorithms, Distributed Systems, Databases.</li>
+      </ul>
+    </div>
+
+  </body>
+</html>
