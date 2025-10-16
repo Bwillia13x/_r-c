@@ -19,9 +19,11 @@ Calgary, AB | 2025-Present
 	•	Integrate SQL exports into Excel workflows; automate refresh/validation for recurring reporting; reduce monthly reporting cycle time by eliminating manual refresh steps.
 	•	Coordinate cross-functional inputs (finance and operations); document SOPs; drive deadline discipline that mirrors banking diligence processes.
 	•	Advise on data readiness and lightweight integrations; deploy AI assistants for lookups, draft variance commentary, and status summaries.
+	•	Maintain diligence-style checklists and centralized workbooks so finance and operations leads can respond quickly to buy-side and sell-side requests from executives and external advisors.
 	•	Prepare pitch/CIM-structured materials with footnoted sources and version control, enabling faster executive review and fewer rework loops.
 Rosen Capital Advisors - Financial Analyst
 Los Angeles, CA | 2016-2020
+	•	Maintained hedge books and exposure models that informed weekly investment reviews and capital allocation decisions.
 	•	Produced investor materials and diligence models; built dashboards supporting risk/operations reviews; maintained assumptions logs and reconciliations.
 	•	Led a cross-department platform integration; standardized reporting cadence; delivered $120K/year vendor savings and improved data integrity.
 	•	Co-authored quarterly/annual investor letters and fact sheets; built LP presentations and materials for fundraising and partner reviews.
@@ -31,3 +33,4 @@ New York, NY | 2015
 	•	Built valuation models (DCF/IRR, waterfalls) and drafted investment memoranda for $350M-$3.5B transactions.
 	•	Conducted industry/company research to inform comparable analyses and investment recommendations.
 	•	Supported transaction execution including due diligence coordination and documentation review.
+	•	Participated in management presentations and diligence Q&A, coordinating materials and data room updates with banking and legal teams.
