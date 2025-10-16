@@ -5,9 +5,9 @@ Haskayne School of Business, University of Calgary - B.Comm, Finance (Distinctio
 2025
 	•	GPA: 3.9/4.0; Haskayne Resilience Scholarship; Coursework: Corporate Finance (A+), Security Analysis (A)
 PROFESSIONAL SUMMARY
-	•	B.Comm (Distinction, 2025) finance candidate targeting Real Estate Investment Banking. Built DCF/IRR and waterfalls, comps/precedents, and CIM/pitch materials under tight deadlines.
-	•	Real estate fluency: REIT comps; NAV/AFFO/FFO; property-level NOI, cap-rate valuation, and debt sizing (DSCR/LTV) across industrial, multifamily, and office portfolios.
-	•	Advanced Excel; practical Python/SQL. Prepared to support BMO's Real Estate Investment Banking franchise across sell-side and buy-side mandates in M&A and capital markets.
+	•	B.Comm (Distinction, 2025) finance candidate targeting Real Estate Investment Banking. Built DCF/IRR and waterfall models, comps/ precedents, and CIM/pitch materials under tight deadlines.
+	•	Real estate fluency: REIT comps; NAV/AFFO/FFO; property-level NOI, cap rate valuation, and debt sizing (DSCR/LTV) across industrial, multifamily, and office portfolios.
+	•	Advanced Excel; practical Python/SQL. Ready to support BMO's Real Estate Investment Banking team across sell-side and buy-side mandates in M&A and capital markets.
 CORE COMPETENCIES
 	•	Valuation: DCF, comps, precedents; RE metrics (NAV, AFFO/FFO, NOI, cap rates, DSCR/LTV); 3-statement modeling
 	•	IB deliverables: pitch books, CIM/OM, management presentations, diligence Q&A, data room coordination
@@ -15,10 +15,10 @@ CORE COMPETENCIES
 EXPERIENCE
 PrairieSignal - Independent Consultant (Reporting & Analytics)
 Calgary, AB | 2025-Present
-	•	Build executive-ready weekly and monthly CIM-style packs (KPI dashboards, budget vs. actuals, variance commentary) with reconciliations and audit trails used by senior leadership.
-	•	Integrate SQL exports into Excel workflows; automate refresh/validation for recurring reporting; reduce monthly reporting cycle time by eliminating manual refresh steps.
-	•	Coordinate cross-functional inputs (finance and operations); document SOPs; drive deadline discipline that mirrors banking diligence processes.
-	•	Advise on data readiness and lightweight integrations; deploy AI assistants for lookups, draft variance commentary, and status summaries.
+	•	Build weekly and monthly executive-ready CIM-style packs (KPI dashboards, budget vs. actuals, variance commentary) with reconciliations and audit trails used by senior leadership.
+	•	Integrate SQL exports into Excel; automate refresh/validation for recurring reporting, reducing the monthly reporting cycle time and eliminating manual refresh steps.
+	•	Coordinate finance and operations inputs; document SOPs; drive deadline discipline mirroring banking diligence processes.
+	•	Implement automated lookups and draft variance commentary to accelerate reviews.
 	•	Maintain diligence-style checklists and centralized workbooks so finance and operations leads can respond quickly to buy-side and sell-side requests from executives and external advisors.
 	•	Prepare pitch/CIM-structured materials with footnoted sources and version control, enabling faster executive review and fewer rework loops.
 Rosen Capital Advisors - Financial Analyst
