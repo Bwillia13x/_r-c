@@ -1,32 +1,30 @@
 Drew Williams
-Calgary, AB | Open to relocation: Toronto, ON | 403-618-6113 | Bwillia@ucalgary.ca | linkedin.com/in/drew-williams-ai-strategy | itfrombit.ca | prairiesignal.ca | Canadian citizen
+Calgary, AB | Open to relocate to Toronto, ON | 403-618-6113 | bwillia@ucalgary.ca | linkedin.com/in/drew-williams-ai-strategy | prairiesignal.ca | Canadian citizen
 EDUCATION
 Haskayne School of Business, University of Calgary - B.Comm, Finance (Distinction)
-2025
+Calgary, AB | May 2025
 	•	GPA: 3.9/4.0; Haskayne Resilience Scholarship; Coursework: Corporate Finance (A+), Security Analysis (A)
 PROFESSIONAL SUMMARY
-	•	B.Comm (Distinction, 2025) finance candidate targeting Real Estate Investment Banking. Built DCF/IRR and waterfall models, comps/ precedents, and CIM/pitch materials under tight deadlines.
-	•	Real estate fluency: REIT comps; NAV/AFFO/FFO; property-level NOI, cap rate valuation, and debt sizing (DSCR/LTV) across industrial, multifamily, and office portfolios.
-	•	Advanced Excel; practical Python/SQL. Ready to support BMO's Real Estate Investment Banking team across sell-side and buy-side mandates in M&A and capital markets.
+	•	B.Comm (Distinction, May 2025) targeting Real Estate Investment Banking (Toronto). Four years of prior buy-side/analyst experience; built DCF/IRR and waterfall models, comps/precedents, and CIM/pitch materials under tight deadlines.
+	•	Real estate fluency: REIT comps; NAV, FFO/AFFO; property-level NOI, cap rates, and DSCR/LTV-based debt sizing across industrial, multifamily, and office portfolios.
+	•	Advanced Excel; practical Python/SQL. Ready to support BMO's Real Estate Investment Banking team across acquisition/disposition, M&A, and capital markets mandates.
 CORE COMPETENCIES
-	•	Valuation: DCF, comps, precedents; RE metrics (NAV, AFFO/FFO, NOI, cap rates, DSCR/LTV); 3-statement modeling
-	•	IB deliverables: pitch books, CIM/OM, management presentations, diligence Q&A, data room coordination
-	•	Tools: Excel (advanced), PowerPoint, Word; Python (pandas), SQL
+Valuation: DCF, comps, precedents; RE metrics (NAV, FFO/AFFO, NOI, cap rates, DSCR/LTV); 3-statement modeling. IB deliverables: pitch books, CIM/OM, management presentations, diligence Q&A, data room coordination. Tools: Excel (advanced), PowerPoint, Word; Python (pandas), SQL.
 EXPERIENCE
 PrairieSignal - Independent Consultant (Reporting & Analytics)
 Calgary, AB | 2025-Present
 	•	Build weekly and monthly executive-ready CIM-style packs (KPI dashboards, budget vs. actuals, variance commentary) with reconciliations and audit trails used by senior leadership.
-	•	Integrate SQL exports into Excel; automate refresh/validation for recurring reporting, reducing the monthly reporting cycle time and eliminating manual refresh steps.
+	•	Integrate SQL exports into Excel; automate refresh/validation for recurring reporting, cutting cycle time and eliminating manual refresh steps.
 	•	Coordinate finance and operations inputs; document SOPs; drive deadline discipline mirroring banking diligence processes.
 	•	Implement automated lookups and draft variance commentary to accelerate reviews.
-	•	Maintain diligence-style checklists and centralized workbooks so finance and operations leads can respond quickly to buy-side and sell-side requests from executives and external advisors.
+	•	Maintain diligence-style checklists and centralized workbooks so finance and operations leads can respond quickly to buy-side and sell-side acquisition/disposition requests from executives and external advisors.
 	•	Prepare pitch/CIM-structured materials with footnoted sources and version control, enabling faster executive review and fewer rework loops.
 Rosen Capital Advisors - Financial Analyst
 Los Angeles, CA | 2016-2020
 	•	Maintained hedge books and exposure models that informed weekly investment reviews and capital allocation decisions.
 	•	Produced investor materials and diligence models; built dashboards supporting risk/operations reviews; maintained assumptions logs and reconciliations.
 	•	Led a cross-department platform integration; standardized reporting cadence; delivered $120K/year vendor savings and improved data integrity.
-	•	Co-authored quarterly/annual investor letters and fact sheets; built LP presentations and materials for fundraising and partner reviews.
+	•	Co-authored quarterly/annual investor letters and fact sheets; built LP presentations and materials for fundraising and capital raise reviews.
 	•	Developed management reports (Excel/Python) with clear version control and governance supporting reviews and decision-making.
 Private Equity (Summer Analyst) - Olson Cross & Alamo
 New York, NY | 2015
